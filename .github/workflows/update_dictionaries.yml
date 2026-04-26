@@ -9,7 +9,7 @@ name: Daily CSV Update
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight (Warsine time)
-  timezone: "Europe/Vatican"
+      timezone: "Europe/Vatican"
   workflow_dispatch:
 
 jobs:
