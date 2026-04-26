@@ -1,14 +1,14 @@
 name: Daily CSV Update
 
-# # steenbergen
-# curl -L https://docs.google.com/spreadsheets/d/e/2PACX-1vSWOL9i-B1-_HGb3uQHQPuIdls2rpjhjoXrojSvVR7fQb_ImasEr1X_03kEQta72HJX-Jc4HxU5OdEN/pub?output=csv
+# steenbergen
+# https://docs.google.com/spreadsheets/d/e/2PACX-1vSWOL9i-B1-_HGb3uQHQPuIdls2rpjhjoXrojSvVR7fQb_ImasEr1X_03kEQta72HJX-Jc4HxU5OdEN/pub?output=csv
 
-# # w2
-# curl -L https://docs.google.com/spreadsheets/d/e/2PACX-1vRAtFJqh5zR9xW1AQu-6pJch39HjMz5rTaE_1cfN4GTMrQe23pKDJvqtEJj7XswIgX_AdE5Sr4jFCjr/pub?output=csv
+# w2
+# https://docs.google.com/spreadsheets/d/e/2PACX-1vRAtFJqh5zR9xW1AQu-6pJch39HjMz5rTaE_1cfN4GTMrQe23pKDJvqtEJj7XswIgX_AdE5Sr4jFCjr/pub?output=csv
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight (Warsina time)
+    - cron: '0 0 * * *' # Runs every day at midnight (Warsine time)
   timezone: "Europe/Vatican"
   workflow_dispatch:
 
@@ -22,8 +22,8 @@ jobs:
 
       - name: Set variables
         run: |
-         echo "steenbergen_link=link1.com/csv.csv" >> $GITHUB_ENV
-         echo "w2_link=link2.com/csv.csv" >> $GITHUB_ENV
+         echo "steenbergen_link=https://docs.google.com/spreadsheets/d/e/2PACX-1vSWOL9i-B1-_HGb3uQHQPuIdls2rpjhjoXrojSvVR7fQb_ImasEr1X_03kEQta72HJX-Jc4HxU5OdEN/pub?output=csv" >> $GITHUB_ENV
+         echo "w2_link=https://docs.google.com/spreadsheets/d/e/2PACX-1vRAtFJqh5zR9xW1AQu-6pJch39HjMz5rTaE_1cfN4GTMrQe23pKDJvqtEJj7XswIgX_AdE5Sr4jFCjr/pub?output=csv" >> $GITHUB_ENV
 
          echo "steenbergen_path=dictionary/dictionary_steenbergen_edited.csv" >> $GITHUB_ENV
          echo "w2_path=dictionary/dictionary_w2.csv" >> $GITHUB_ENV
@@ -70,18 +70,12 @@ jobs:
         run: |
           DIFFERENT_CSV=false
 
-          if ! diff -q $steenbergen_download_path $steenbergen_path; then
-            echo "$steenbergen_download_path and $steenbergen_path are different."
+          if [ ! -f "$steenbergen_path" ] || ! diff -q "$steenbergen_download_path" "$steenbergen_path" >/dev/null; then
             DIFFERENT_CSV=true
-          else
-            echo "$steenbergen_download_path and $steenbergen_path are the same."
           fi
 
-          if ! diff -q $w2_download_path $w2_path; then
-            echo "$w2_download_path and $w2_path are different."
+          if [ ! -f "$w2_path" ] || ! diff -q "$w2_download_path" "$w2_path" >/dev/null; then
             DIFFERENT_CSV=true
-          else
-            echo "$w2_download_path and $w2_path are the same."
           fi
 
           if [ $DIFFERENT_CSV == false ]; then 
