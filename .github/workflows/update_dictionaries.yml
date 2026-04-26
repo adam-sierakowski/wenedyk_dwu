@@ -1,0 +1,124 @@
+name: Daily CSV Update
+
+# # steenbergen
+# curl -L https://docs.google.com/spreadsheets/d/e/2PACX-1vSWOL9i-B1-_HGb3uQHQPuIdls2rpjhjoXrojSvVR7fQb_ImasEr1X_03kEQta72HJX-Jc4HxU5OdEN/pub?output=csv
+
+# # w2
+# curl -L https://docs.google.com/spreadsheets/d/e/2PACX-1vRAtFJqh5zR9xW1AQu-6pJch39HjMz5rTaE_1cfN4GTMrQe23pKDJvqtEJj7XswIgX_AdE5Sr4jFCjr/pub?output=csv
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight (Warsina time)
+  timezone: "Europe/Vatican"
+  workflow_dispatch:
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set variables
+        run: |
+         echo "steenbergen_link=link1.com/csv.csv" >> $GITHUB_ENV
+         echo "w2_link=link2.com/csv.csv" >> $GITHUB_ENV
+
+         echo "steenbergen_path=dictionary/dictionary_steenbergen_edited.csv" >> $GITHUB_ENV
+         echo "w2_path=dictionary/dictionary_w2.csv" >> $GITHUB_ENV
+
+         echo "steenbergen_download_path=dictionary/new_dictionary_steenbergen_edited.csv" >> $GITHUB_ENV
+         echo "w2_download_path=dictionary/new_dictionary_w2.csv" >> $GITHUB_ENV
+
+      - name: Download New CSV
+        run: |
+          echo "Downloading Steenbergen edited dict"
+          if curl -fLo $steenbergen_download_path $steenbergen_link; then
+            echo "CSV download successful."
+          else
+            echo "Download failed."
+            exit 1
+          fi
+          echo "Downloading w2 dict"
+          if curl -fLo $w2_download_path $w2_link; then
+            echo "CSV download successful."
+          else
+            echo "Download failed."
+            exit 1
+          fi
+
+      - name: Check CSV File Sizes
+        id: check-csvs
+        run: |
+          if [ -s $steenbergen_download_path ]; then
+            echo "$steenbergen_download_path is not empty."
+          else
+            echo "$steenbergen_download_path is empty."
+            exit 1
+          fi
+
+          if [ -s $w2_download_path ]; then
+            echo "$w2_download_path is not empty."
+          else
+            echo "$w2_download_path is empty."
+            exit 1
+          fi
+          
+      - name: Check for Differences
+        id: check-differences
+        run: |
+          DIFFERENT_CSV=false
+
+          if ! diff -q $steenbergen_download_path $steenbergen_path; then
+            echo "$steenbergen_download_path and $steenbergen_path are different."
+            DIFFERENT_CSV=true
+          else
+            echo "$steenbergen_download_path and $steenbergen_path are the same."
+          fi
+
+          if ! diff -q $w2_download_path $w2_path; then
+            echo "$w2_download_path and $w2_path are different."
+            DIFFERENT_CSV=true
+          else
+            echo "$w2_download_path and $w2_path are the same."
+          fi
+
+          if [ $DIFFERENT_CSV == false ]; then 
+            echo "Nothing to update. Skipping commit."
+            # rm $steenbergen_download_path
+            # rm $w2_download_path
+          fi
+
+          echo "DIFFERENT_CSV=$DIFFERENT_CSV" >> $GITHUB_ENV
+
+      - name: Overwrite CSV
+        if: steps.check-csvs.outcome == 'success' && env.DIFFERENT_CSV == 'true'
+        run: |
+          mv $steenbergen_download_path $steenbergen_path
+          mv $w2_download_path $w2_path
+
+      - name: Commit and Push Changes
+        if: steps.check-csvs.outcome == 'success' && env.DIFFERENT_CSV == 'true'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          timestamp=$(date +'%Y%m%d%H%M%S')
+          branch_name="update-dictionaries-$timestamp"
+
+          git checkout -b "$branch_name"
+
+          git add dictionary
+
+          git commit -m "Update CSV file"
+
+          git push origin "$branch_name"
+
+          git checkout main
+          git merge --no-ff "$branch_name"
+          git push origin main
+
+          # delete the temporary branch
+          git branch -d "$branch_name"
+          git push origin --delete "$branch_name"
