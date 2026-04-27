@@ -1,0 +1,485 @@
+id	category	title_wen	title_eng	title_pol	source
+pater_noster	bible	Uraceń Donu	The Lord's Prayer	Modlitwa Pańska	texts1
+babel_text	bible	Turz Bable	The Tower of Babel	Wieża Babel	texts1
+christ_abgar	bible	Pistle Jezu Chrystu i Abgaru, rzeże Edesie	The epistles of Jesus Christ and Abgarus, king of Edessa	Listy Jezusa Chrystusa i Abgara, króla Edessy	texts1
+ecclesiastes	bible	Ecclesiastes (Qohelet) 1:6			texts1
+shema	bible	Shema Yisrael (Deuteronomy 6:4)			texts1
+northwind	short_stories	Więt Miódnocały i Sul	The North Wind and the Sun	Północny Wiatr i Słońce	texts2
+schleicher	short_stories	Schleicher's Tale	The Sheep and the Horses	Owca i konie	texts2
+cow	short_stories	Woszka i szep	The cow and the fence	Krowa i ogrodzenie	texts2
+wolf	short_stories	Łup i kań	The wolf and the dog	Wilk i pies	texts2
+village	short_stories	Wikieł frączeski	The French village	Francuska wioska	texts2
+lights	short_stories	Le łymna	Those lights	Tamte światła	texts2
+wren	short_stories	Rzeglik	The wren	Strzyżyk	texts2
+rushdie	short_stories	Salman Rushdie, “Maga za Floręce” (fragmię)	Salman Rushdie, “The Enchantress of Florence” (fragment)	Salman Rushdie, “Czarodziejka z Florencji” (fragment)	texts2
+relay10	relay	Ocięceń: mały nieporłarz!	Beware of the baby!	Uwaga: zły niemowlak!	texts3
+relay75	relay	Pistła	A letter	List	texts3
+relay8	relay	Klucz o mnościerz	The key to the monastery	Klucz do opactwa	texts3
+relay9	relay	Pięzęć dzie iwrzanu	Thinking about winter	Rozmyślania o zimie	texts3
+relay11	relay	Przeskrzypceń	A recipe	Przepis	texts3
+relay12	relay	Ił gwarda i porła?!			texts3
+relay13	relay	Mód kętra trzyścieca iwrzanu	A method against the gloom of Winter	Sposób na zimowy smutek	texts3
+relay14	relay	Uraceń pro jekunie i moszkłu, kwali wołą sie szpuzar	Prayer for a woman and a man, who want to get married	Modlitwa dla kobiety i mężczyzny, którzy chcą się pobrać	texts3
+relay15	relay	Deskars frudlęci	A fraudulent speech	Przemówienie zakłamane	texts3
+ring_poem	poetry	The ring poem			texts4
+starling	poetry	Kęt Starnór	The Starlings' Song	Śpiew szpaków	texts4
+hen	poetry	From „The Space Child's Mother Goose”, by Frederick Winsor			texts4
+womb_dream	poetry	Tekst reliżuzy	Religious text	Tekst religijny	texts4
+blessing	poetry	Bieńdzikaceń	Blessing	Błogosławieństwo	texts4
+days	poetry	Dzeje siecianie	The days of the week	Dni tygodnia	texts4
+hand	poetry	Przędź miej man	Take my hand	Weź mnie za rękę	texts4
+voice	poetry	Wucz	A voice	Głos	texts4
+old_irish	poetry	Bieńdzikaceń nycała wiekłoirlańka		Staroirlandzkie błogosławienie ślubne	texts4
+spheres	poetry	En sferar sprzerzar	In hogere sferen	In hogere sferen	texts4
+satyricon	poetry	Satyrykon, 79	Satyricon, 79	Satyricon, 79	texts4
+zakochana	poetry	Enjemata	Zakochana	Zakochana	texts4
+smile	poetry	Źryz	The smile	Uśmiech	texts4
+part	poetry	Parć Ciej...	A part of you...	Część Ciebie...	texts4
+labour	poetry	Łoworze przeducie omorze	Love's Labour's Lost	Stracone zachody miłości	texts4
+liebende	poetry	Jemęcia skrzywie	The loving one writes	The loving one writes	texts4
+psalm	songs	Psalm pro Ciej	Psalm dla Ciebie	Psalm dla Ciebie	texts5
+summer_wine	songs	Win ściwy	Summer wine	Letnie wino	texts5
+mille_anni	songs	Mille anni passi sunt			texts5
+ghost_riders	songs	Kawałarzy Czału	Ghost Riders in the Sky (lit. translation)	Jeźdźcy nieba (tłumaczenie dosłowne)	texts5
+sacrum	songs	Sacrum			texts5
+lithium	songs	Lic	Lithium	Lit	texts5
+feel	songs	Je że cembruz	It's dark already	Jest już ciemno	texts5
+lavender	songs	Ławięda	Lavender	Lawenda	texts5
+letter	songs	Pistła	Letter	List	texts5
+shakira	songs	Z setu twiej wieście	Underneath your clothes	Pod twoim ubraniem	texts5
+bezczas	songs	Sieńciępu	Timeless	Bezczas	texts5
+hej	songs	Hej, Wenedzi	Hey, Veneds	Hej, Wenedzi	texts5
+kawaliniany	world_history	Kód sie ście sie?	What's been happened?	Co się stało się?	texts6
+shipwreck	world_history	Historia Moszkłu i łu Nawraje	The Story of the Shipwrecked Man [CR]	Historia Człowieka z Rozbitego Statku	texts6
+student	world_history	Za dzejarze studentu	From a student's diary	Z dziennika studenta	texts6
+biera	world_history	How to order three beer in Wenedyk?			texts6
+dialogue	world_history	Dialog			texts6
+caesar	world_history	Julius Caesar — De Bello Gallico			texts6
+newsflash	world_history	Newsflash			texts6
+declaration	world_history	Dziekłaraceń Uniwersała Drzecór Womnie, Artykuł 1	Universal Declaration of Human Right, Article 1	Powszechna Deklaracja Praw Człowieka, Artykuł 1	texts6
+legend	world_history	Legenda dzie Janacie	Legend about Janać	Legenda o Janaciu	texts6
+jamie_lynn	world_history	Filica żęciła ku więtrze krosu	The other Spears does the bump	Grzeczna dziewczynka z dużym brzuchem	texts6
+dodo	world_history	Oskrzypceń desporłacenie ku Dodo			texts6
+nosmoking	world_history				texts6
+quotations	misc	Sawie porule Donie Anie Rzenacie Nowicz	Wise words by Mrs. Ana Rzenata Nowicz		texts7
+babylon5	misc	Babylon 5 — Three fragments			texts7
+petricon	misc	Za Piotrzykonie	From the Petricon	Z „Petriconu”	texts7
+spam	misc	Randła ku milionarze	Date a millionaire	Date a millionaire	texts7
+spam2	misc	Nie posu krzedzier, kód ił futszy jałtra jekuna	I can't believe he fucked another woman	Nie mogę uwierzyć, że on przeleciał inną kobietę!	texts7
+spam3	misc	Jekunina kociesta barała	Female bar contest	Kobiecy konkurs barowy	texts7
+spam4	misc	Pauza o obiad sur szedziędu pościcu kotata o taśma	Backseat lunchbreak caught on tape	Przerwa na lunch na tylnym siedzeniu uwieczniona na taśmie	texts7
+spam5	misc	Okętra jekunie kwale odzę sie mółczar	Meet with women who hate to cuddle	Spotkaj kobiety, które nie znoszą przytulania.	texts7
+carl	misc	Pistła o Karołu	Letter to Carl	List do Karola	texts7
+stuff	misc	Christian Thalmann's translation exercise			texts7
+translation_exercise_2	misc	Padraic Brown's translation exercise			texts7
+translation_exercise_3	misc	Translation exercise 3			texts7
+translation_exercise_4	misc	Translation exercise 4			texts7
+translation_exercise_5	misc	Translation exercise 5			texts7
+translation_exercise_6	misc	Translation exercise 6			texts7
+translation_exercise_7	misc	Translation exercise 7			texts7
+translation_exercise_8	misc	Translation exercise 8			texts7
+goquim_sentences	misc	Goquim sentences			texts7
+sentences	misc	Loose sentences			texts7
+001	aphorisms	Omórz posa sie ilew, kwali li doną sie posar. [Irl-Ania]	Love happens to those, who make it happen. [Irl-Ania]	Miłość zdarza się tym, którzy dają jej się zdarzyć. [Irl-Ani	sawtacie
+002	aphorisms	Lecieca parcita je lecieca dupła, Trzyścieca parcita je trzy	Shared joy is double joy. Shared sorrow is half sorrow. [Irl	Wspólna radość to podwójna radość, wspólny smutek to tylko p	sawtacie
+003	aphorisms	Sień omorze rześpieraceń je sięgłamięć urłój dziemiozęci cię	Without love, breath is nothing but a clock ticking away the	Bez miłości oddech jest tylko zegarem odmierzającym czas. [z	sawtacie
+004	aphorisms	Wita pocie szer karmię, kędy je jelki prokód kętar ku ciej. 	Life can be a song if there's someone to sing along. [Irl-An	Życie może być pieśnią, jeśli jest ktoś, by śpiewać razem z 	sawtacie
+005	aphorisms	Wiortać je siąprz sięgłamięć córa cięprze. [Leonardo da Vinc	The truth is always just a daughter of time. [Leonardo da Vi	Prawda jest zawsze tylko córką czasu. [Leonardo da Vinci]	sawtacie
+006	aphorisms	Mąd je bielerzy ka pięzawa. [Żowan Sasomętany]	The world is more beautiful than I thought. [Jan van Steenbe	Świat jest piękniejszy niż myślałem. [Jan van Steenbergen]	sawtacie
+007	aphorisms	Jemęci są dziemięci	Lovers are fools	"AMANTES SUNT AMENTES
+
+Kochankowie są szaleni"	sawtacie
+008	aphorisms	Womień! Ty piędeł jętar źryz i łokrzyma.	Man! Thou pendulum betwixt a smile and tear. (G.G. Byron)	"(G.G. Byron)
+
+Człowiek! Wahadło pomiędzy uśmiechem a łzą. (G"	sawtacie
+009	aphorisms	Poeta, sięgłamięć kap nie iłu.	Poet, just not that head.	Poeta, tylko głowa nie ta.	sawtacie
+010	aphorisms	Dziewie ci omiecier, kód wółćmie krzebrzu mie przędzie, kędy	I have to admit that I am being been caught by feelings of d	Musze ci przyznać, że ostatnio częściej mnie bierze, kiedy r	sawtacie
+011	aphorisms	Jemęć Cie, jemu oćmy kód mąd dar pocie.	Loving you, I am loving the best the world can give.	Kochając Ciebie, kocham najlepsze, co świat dać może.	sawtacie
+012	aphorisms	Omórz dera jotranie. Łu sięgłamięć ludzie się kęblę.	Love is eternal. It's just the people that change.	Miłość trwa wiecznie. To tylko ludzie się zmieniają.	sawtacie
+013	aphorisms	Omórz da śpioręca komód radz sule po pływla.	Love comforteth like sunshine after rain. [W. Shakespeare]	"[G. Trammelpila]
+
+Miłość dodaje otuchy jak promień słońca po"	sawtacie
+014	aphorisms	Omórz je nud, kwały cenie mąd en wyńtacie.	Love is the knot that keeps the world together.	Miłość jest węzłem, który utrzymuje świat w jedności.	sawtacie
+015	aphorisms	Kropu jekunie je komód instrumię jeszczepconały, fole szer w	The body of a woman is an exceptional instrument; one needs 	Ciało kobiety jest jak wyjątkowy instrument, trzeba być wirt	sawtacie
+016	aphorisms	Niądź nie kupiesz flictacie, maż omórz da łą gratis.	Happiness you cannot buy anywhere, but love gives it away fo	Nigdzie nie kupisz szczęścia, a miłość daje je gratis.	sawtacie
+017	aphorisms	Ku mięcie i mrociołu	With mind and hammer	"MENTE ET MALLEO
+
+Myślą i młotem"	sawtacie
+018	aphorisms	Zwierz pro omorze. Odura przekód dole.	Suffer for love. Worship 'till it hurts.	Cierp dla miłości. Czcij ją aż do bólu.	sawtacie
+019	aphorisms	Wojna komód wojna, organ rodnarzy, uta strarodnarzemięć wcie	A sheath is a sheath, an ordinary organ, but an extraordinar	Pochwa jak pochwa, zwykly organ, ale niezwykle użyteczny.	sawtacie
+020	aphorisms	Kród nie je śrewięci, wojna nie je kalafior. [Irl-Ania]	The heart is not a servant, the vagina is not a cauliflower.	Serce nie sługa, wagina nie kalafior. [Irl-Ania]	sawtacie
+021	aphorisms	Przyma rześpieraceń omorze, łu wółćma rześpieraceń rocenie. 	The first breath of love is the last breath of reason. [Korn	Pierwsze westchnienie miłości, to ostatnie westchnienie rozu	sawtacie
+022	aphorisms	Okopłaru sie o cie komód jadra.	Just like the ivy I'll cling to you. [A.J. Mills]	"[A.J. Mills]
+
+Przylgnę do ciebie jak bluszcz. [A.J. Mills]"	sawtacie
+023	aphorisms	Kośkiny womień ja swa ziścięca surjemata – miecim szy iła ni	Every person has his most beloved creature – even if it does	Każdy człowiek ma swoją ukochaną istotę – nawet jeśli ona ni	sawtacie
+024	aphorisms	Wyszek śpieru, śpioru.	As long as I breath, I hope.	"DVM SPIRO, SPERO.
+
+Dopóki oddycham, mam nadzieję."	sawtacie
+026	aphorisms	Nękwa nie kwierz, pro kiju bocie dzwon. Ił bocie pro ciej.	Never ask for whom the bell tolls. It tolls for thee. [J. Do	"[J. Donne]
+
+Nie pytaj nigdy, komu bije dzwon. On bije tobie."	sawtacie
+027	aphorisms	Omórz je sięgła rzej, kwała krzeszcze, ściępu kędy nu łą pru	Love is the only thing that keeps growing, while we are wast	Miłość jest jedyną rzeczą, która rośnie, podczas gdy my ją t	sawtacie
+028	aphorisms	Nie lecze dzieśpiorar.	Nothing to despair.	"NIL DESPERANDVM.
+
+Nie należy rozpaczać."	sawtacie
+029	aphorisms	Kędy jekuna lewa sie o czał, łu o siećmy czał. Maż kędy kadz	When a woman ascends to heaven, then she rises into the seve	"[Deotyma]
+
+Gdy kobieta wzniesie się do nieba, to do siódmego"	sawtacie
+030	aphorisms	Nękwa nie rzefyza dunu dziewinu, prostokód Dziew ci łu da si	Never refuse a gift from God, because God gives it to you on	Nigdy nie odrzucaj daru od Boga, bo Bóg daje go tylko raz. [	sawtacie
+031	aphorisms	Miścierz omorze je mółt mojerzy dzie miścierze mrocie.	The mystery of love is greater than the mystery of life. [Os	"[Oscar Wilde]
+
+Zagadka miłości jest o wiele większa od zagad"	sawtacie
+032	aphorisms	Ściądszy ci świe sonia z piedzie; Gradź molemięć, nąk gradzi	I have spread my dreams under your feet; Tread softly becaus	"[W.B.Yeats]
+
+Więc ci rzuciłem marzenia pod stopy; Stąpaj ost"	sawtacie
+033	aphorisms	Jemęć wiory je jelki, kwały gwarda drzec par Cie, maż i szyk	A true lover is one who sees through you and still enjoys th	Prawdziwy kochanek to ktoś, kto patrzy poprzez Ciebie, a wid	sawtacie
+034	aphorisms	Pro miór soniór twie imażnie, kwała flurze roza en fędór miu	For my dreams of your image that blossoms a rose in the deep	Na obraz twój z moich snów, który mi w sercu zakwita różą. [	sawtacie
+035	aphorisms	Enhału ślęca implata par cie. [Żowan Sasomętany]	I breathe in the silence that is filled with you. [Jan van S	Wdycham ciszę napełnioną Tobą [Jan van Steenbergen]	sawtacie
+036	aphorisms	Omórz dzieprzędzie roceń ilew, kód łą poszedzę, maż da ilew,	Love takes away reason from those who have it, and give it t	Miłość odbiera rozum tym, co go posiadają, a daje tym co go 	sawtacie
+037	aphorisms	Kłartać mięcie kuza ileż kłartać poszenie. Prołu mięć grędzi	Clearness of mind also causes clearness of passion. Therefor	Jasność umysłu powoduje również jasność namiętności. Dlatego	sawtacie
+038	aphorisms	Jemar jelkiju łu szynie widziar mierakieł, niewiżybły pro ja	Loving someone means seeing a miracle, invisible for others.	Kochać kogoś to znaczy widzieć cud, niewidzialny dla innych.	sawtacie
+039	aphorisms	Kód łu je omórz? Łu jębłaceń ściępu pływle mółt kosiej. Womi	What is love? It is a walk during a very tiny rain. Man walk	Co to jest miłość? To spacer podczas bardzo drobniutkiego de	sawtacie
+041	aphorisms	Wiwier szynie wita parcier ku ciej, maż nie szer ku ciej szy	Being alive means sharing my life with you; not being with m	Żyć znaczy życie dzielić z tobą, a nie być z tobą znaczy nie	sawtacie
+042	aphorisms	Kostęć jemu źryz en Twór okłór.	I keep loving the smile in your eyes.	Ciągle kocham uśmiech w Twoich oczach.	sawtacie
+043	aphorisms	Siąprz si oprzyty pro omorze, maż iła za siej parkołora Ci k	Always be open to love, and it will recolour your heart by i	Bądź zawsze otwartym na miłość, a ona sobą przebarwi Ci serc	sawtacie
+044	aphorisms	Miej dom je jądź, wądź jesz Ty – Ania. [Żowan Sasomętany]	My home is there, where you are are – Ania. [Jan van Steenbe	Mój dom jest tam, gdzie jesteś Ty – Ania. [Jan van Steenberg	sawtacie
+045	aphorisms	Szekł nie procieże prze omorze, po łu omórz procieże prze wi	Age doesn't protect against love, however, love protects aga	Wiek nie chroni przed miłością, za to miłość chroni przed st	sawtacie
+046	aphorisms	Sięgłamięć womień, kwały jemie, morze komód womień. [Antoine	Only a person who has loved, dies like a human person. [Anto	Tylko człowiek, który kochał, umiera jak człowiek. [Antoine 	sawtacie
+047	aphorisms	Cześć je omórz. Dwu ludzie okętrą sie oszczydziętalemięć, ma	Such is love. Two people meet by accident, and then it turns	Oto jest miłość. Dwoje ludzi spotyka się przypadkiem, a okaz	sawtacie
+048	aphorisms	Komód nie ja sparacenie, nie ja dłuczytydnie okętracenie. [H	If there is no separation, there is not the sweetness of mee	Jeśli nie ma rozłąki, nie ma słodyczy spotkania. [Hafiz]	sawtacie
+049	aphorisms	Szer pocie pro mędu jesz sięgłamięć womień, uta pro niekwałó	Perhaps for the world you are just a person, but for some pe	Być może dla świata jesteś tylko człowiekiem, ale dla niektó	sawtacie
+050	aphorisms	Dzeje sień ciej, łu dzeje sień półzu krodzie...	Days without you are days without heartbeat...	Dni bez ciebie, to dni bez bicia serca...	sawtacie
+051	aphorisms	Szer enjematy, łu szer rotaty piara sięzar sanór. [Owidz]	To be in love means to be crazy with your senses healthy. [O	Być zakochanym, to być szalonym przy zdrowych zmysłach. [Owi	sawtacie
+052	aphorisms	Li, kwali jemą, suli si ofromą sonia. [Wierżyl]	Those who love create their own dreams. [Virgil]	Ci, którzy kochają, sami sobie kształtują sny. [Wergiliusz]	sawtacie
+053	aphorisms	Maż kędy cie bażaru, trze dzeje en buszcze cukier sięce. [Je	But after kissing you, I taste sugar in my mug for three day	A kiedy cię pocałuję, trzy dni w gębie cukier czuję. [Jan Ko	sawtacie
+054	aphorisms	Omórz je froca flara. Kędy ciętamy łą enwrzenier, dziewora n	Love is a wild force. When we try to curb it, it devours us.	Miłość jest dziką siłą. Kiedy próbujemy ją okiełznać, pożera	sawtacie
+055	aphorisms	Omórz wienie sur dzieżdór, maż zwadzie kłopęć ku uszcze.	Love comes on tiptoe, but leaves slamming the door.	Miłość przychodzi na palcach, a wychodzi trzaskając drzwiami	sawtacie
+056	aphorisms	Tut, kód widziemy u siębłamy je sięgłamięć soń niętra sonie.	All we see or seem is but a dream within a dream. [W. Shakes	Co widzimy, co się zdaje, snem we śnie wciąż pozostaje. [W. 	sawtacie
+057	aphorisms	Omórz nie ja szekłu i kostęć sie noszcze. [B. Pascal]	Love is ageless and in a constant state of being born. [B. P	Miłość nie ma wieku i wciąż się rodzi. [B. Pascal]	sawtacie
+058	aphorisms	Omórz więcze tut. [Wierżyl]	Love conquers everything. [Virgil]	"OMNIA VINCIT AMOR [VERGILIUS]
+
+Miłość zwycięża wszystko [Wer"	sawtacie
+059	aphorisms	Jemęć Ciej ileż komięce jemar sie. [Żowan Sasomętany]	Loving you I start loving myself as well. [Jan van Steenberg	Kochając Ciebie zaczynam również kochać siebie. [Jan van Ste	sawtacie
+060	aphorisms	Szyk faczeł je Cie jemar. [Irl-Ania]	It's so easy loving you. [Irl-Ania]	Tak łatwo jest Cię kochać. [Irl-Ania]	sawtacie
+061	aphorisms	Omórz je dzieszyderz, prokód jelkiej jelkód dar, maż nie rze	Love is the desire to give something to someone, not to rece	Miłość jest pragnieniem, aby coś komuś dawać, a nie otrzymyw	sawtacie
+062	aphorisms	Kędy ludzie jemą wyniałtru, łu dęć rzeczeplę, maż rzeczeplęć	When people love one another, they receive while giving and 	Kiedy ludzie się kochają nawzajem, to dając otrzymują, a otr	sawtacie
+063	aphorisms	Dziew zuszkiełta iłór, kwali przeką fowórz obliszczędu pro o	God listens to those, who beg for the favour of being forgot	Bóg wysłuchuje tych, którzy błagają o łaskę zapomnienia dla 	sawtacie
+064	aphorisms	Prze miu omorze włomęciu nyły demon ciej nie sałwarzy. Prze 	From my burning love no demon will save you. From my burning	Von meiner brennenden Liebe kann dich kein Dämon erlösen. Vo	sawtacie
+065	aphorisms	Sięgłamięć womień fliczy pocie jeradzar flictać czerek. [Pau	Only a happy person can radiate with happiness. [Paulo Coelh	Jedynie człowiek szczęśliwy może promieniować szczęściem wok	sawtacie
+066	aphorisms	Sięgłamięć niekędy flictać je dun. Krzebrześmie fole po łą ł	Happiness is a gift only sometimes. In most cases it must be	Tylko niekiedy szczęście bywa darem. Najczęściej trzeba o ni	sawtacie
+067	aphorisms	Sień ciej sięce sie sięgłamięć dzimiedza siej. [Żowan Sasomę	Without you I feel I'm only half of myself. [Jan van Steenbe	Bez ciebie czuję się tylko połową siebie. [Jan van Steenberg	sawtacie
+068	aphorisms	Mośma flictać en wicie łu czartańtać, kód sumy jemacie za rz	The greatest happiness in live is the certainty that we are 	Największe szczęście w życiu to pewność, że jesteśmy kochani	sawtacie
+069	aphorisms	Dziew dziemiecie, Nowicz nękwa. [Przemysław Nowicz]	God forgives, Nowak never does. [Przemysław Nowak]	Bóg przebacza, Nowak nigdy. [Przemysław Nowak]	sawtacie
+070	aphorisms	Dołórz sie pocie desprzeżer i moler par łokrzymie. [Owidz]	Pain can be shattered and relieved by tears. [Ovid]	Ból można rozpraszać i uśmierzać przez łzy. [Owidiusz]	sawtacie
+071	aphorisms	Irl-Ania łu/łą oszczydszerzy komód ił/ła ciętarzy kódkąk! [I	Irl-Ania will kill him/her if he/she tries anything! [Irl-An	Irl-Ania zabije go/ją jeśli on/ona spróbuje czegokolwiek! [I	sawtacie
+072	aphorisms	Pro jekunie omórz je wartyć i pskamię, reliżeń i jegradzik.	For a woman love is a virtue and a sin, a religion and an of	Dla kobiety miłość jest cnotą i grzechem, religią i występki	sawtacie
+073	aphorisms	Szy gwardasz rzetry o swa wita, parswadziesz sie, kód sięgła	If you look back at your life, you will convince yourself th	Jeśli spojrzysz wstecz na swoje życie, przekonasz się, że ty	sawtacie
+074	aphorisms	Jewnia jekuna je pro moszkłu wieszczerzu kawał, sur kwału ił	A young woman is for an older man the horse, on which he rid	Młoda kobieta jest dla starego mężczyzny koniem, na którym j	sawtacie
+075	aphorisms	W twej jematórz nękwa nie dzieprotarzy emprzeszenie, kód nie	Your lover should never get the impression that he does not 	Niech twój kochanek nigdy nie odniesie wrażenia, że nie ma i	sawtacie
+076	aphorisms	Historia omorze je historia śpieczeje wymaniej.	The history of love is the history of the human kind.	Historia miłości jest historią rodu ludzkiego.	sawtacie
+078	aphorisms	Płerześmie przecezie duna są ile, kwałór wałórz przędzie sie	The most precious gifts are always those, which owe their va	ACCEPTISSIMA SEMPER MUNERA SUNT, AUCTOR QUAE PRETIOSA FACIT.	sawtacie
+079	aphorisms	Jema i si jematy, prostokód sięgłamięć sur tałór łatrzy rodn	Love and be loved, as only on that kind of wings an ordinary	Kochaj i bądź kochanym, gdyż tylko na takich skrzydłach zwyk	sawtacie
+080	aphorisms	Omórz je siąprz jądź, wądź wółmy kód si... [Bartolomea]	Love is always where we want it to be... [Bartolomea]	Miłość jest wszędzie tam, gdzie chcemy by była... [Bartolome	sawtacie
+082	aphorisms	Jemar jelkiju, łu prze tutu parmiecier iłu, kód si, kwały je	To love somebody means above all to allow him to be who he i	Kochać kogoś, to przede wszystkim pozwalać mu na to, żeby by	sawtacie
+083	aphorisms	Łabia bażacie nie przodą szarmu, uta rzenową sie komód łyna.	Lips, when kissed, do not loose their charm, but are renewed	Usta całowane nie tracą uroku, ale odnawiają się jak księżyc	sawtacie
+084	aphorisms	Omórz łu dwie sultydnie, kwale enkętrą sie i sprotą mytwalem	Love is two lonelinesses, who meet and support each other.	Miłość to dwie samotności, które spotykają się i nawzajem ws	sawtacie
+085	aphorisms	Jarz, łymię, puza saniewką, uta mojerza leniewkaceń włyje za	Air, light, and rest make healthy, but the greatest comfort 	Powietrze, światło, odpoczynek uzdrawiają, lecz największe u	sawtacie
+086	aphorisms	Jekuna en jałbatku łu pornografia. Jekuna nyda łu bieltać. [	A woman in her underwear is pornography. A naked women is be	Kobieta w bieliźnie to pornografia. Naga kobieta to piękno. 	sawtacie
+087	aphorisms	Omórz więcze en jekunie sem pudorze – owieżła rogultać fiemi	Love makes a woman overcome her shame – it evokes female pri	Miłość zwycięża w kobiecie wstyd – budzi dumę kobiecości. [H	sawtacie
+088	aphorisms	Jemu cie, nąk jęgry Tutomąd fawurze mie en iłu, kód posi opi	I love you because the whole universe conspired for me to co	Kocham cię, bo cały Wszechświat sprzyjał mi w tym, bym mógł 	sawtacie
+089	aphorisms	Tut iłu, kód toszka omórz, dziewienie niemrotały. [Romain Ro	Everything that has been touched by love becomes immortal. [	Wszystko to, czego dotknie miłość, staje się nieśmiertelne. 	sawtacie
+090	aphorisms	Omórz je łatu, kwały Dziew donie womni, prokód ił posi surwo	Love is the wing, which God has given to man in order to be 	Miłość jest skrzydłem, które Bóg dał człowiekowi, aby ten mó	sawtacie
+091	aphorisms	Jemar łu oskrodar się dzie łu, prokód wiekłaszczer ku siekąd	Love is agreeing to grow old with another human being. [Kare	Kochać to zgadzać się na to, by się starzeć z drugim człowie	sawtacie
+092	aphorisms	Omórz przewie suła si. Kędy rzekupra jelkwały kród, koczętra	Love is self-sufficient. When it seizes some heart, it gathe	Miłość wystarcza sama sobie. Gdy zawładnie jakimś sercem, sk	sawtacie
+093	aphorisms	Nił, wiortablemięć nił nie da wałorze wici forzy omorze. [Di	Nothing, really nothing is worth being lived for but love. [	Nic, naprawdę nic nie jest warte życia oprócz miłości. [Diet	sawtacie
+094	aphorisms	Omórz je jelkód fierzmieśmy sur mędu, maż otamię nie pocie s	Love is one of the strongest things on Earth, and yet, one c	Miłość jest czymś najmocniejszym na świecie, a jednak nie mo	sawtacie
+095	aphorisms	Mąd sień omorze je mąd mroty i siąprz owienie ura, kędy womi	A world without love is a dead world, and the hour will alwa	Świat bez miłości jest martwym światem i zawsze przychodzi g	sawtacie
+096	aphorisms	Koju pły śpieczej je śroza, iłu pły źryz je biały. [François	The more serious the face, the more beautiful the smile. [Fr	Plus le visage est sérieux, plus le sourire est beau. [Franç	sawtacie
+097	aphorisms	Enjematy je komód womień en słuwie – enśpiecy en wyna jarber	Being in love is like being in the forest – fixed on one tre	Zakochany jest jak człowiek w lesie – zapatrzony w jedno drz	sawtacie
+098	aphorisms	Ciępór fole porłar o jekuna en oskrodu ku lej jekunińtacie, 	Sometimes you must talk to a woman in accordance with her fe	Trzeba czasem mówić do kobiety zgodnie z jej kobiecością, a 	sawtacie
+099	aphorisms	Ferz da dzilec: pieniądze u wita; jekuna postła jębór owiecz	Brigands demand your money or your life; women require both.	Złodziej daje wybór: pieniądze albo życie; kobieta żąda obu 	sawtacie
+100	aphorisms	Kosa dziewienie włoma omorze en krodzie jekunie, tost rześpi	Tiny becomes the flame of love in a woman's heart, once cons	Znikomym staje się płomień miłości w sercu kobiety, skoro wz	sawtacie
+101	aphorisms	Omórz nie ja krodzie, dąk dziewie za womnie złaczrar łu prop	Love has no heart of its own, therefore it must rip it out f	Miłość nie ma serca, więc musi z człowieka wydrzeć jego włas	sawtacie
+102	aphorisms	Szatan i Kupidzień są koleży, kwale ją jesiem en szukędu lud	Satan and Cupid are friends, looking together for people who	Szatan i Kupidyn są kolegami, którzy idą razem w poszukiwani	sawtacie
+103	aphorisms	Jemar i szer jematy łu szyk, komód si za jębar kosztar kales	To love and be loved is to feel the sun from both sides. [Dr	Kochać i być kochanym to tak, jakby z obu stron grzało nas s	sawtacie
+104	aphorisms	Szy ceniesz omórz trów niefierzm, dziewoła; szy łu embrocasz	If you hold love too loosely then it flies away; if you hold	Jeśli trzymasz miłość zbyt słabo, odleci; jeśli ją ściśniesz	sawtacie
+105	aphorisms	"Szy nostrze omorze są wyn, u jemamy
+sie sięblemięć, ty i jo,"	If our two loves be one, or thou and ILove so alike that non	"Gdy więc miłość w nas jedna – bo ty i ja przecie
+
+jednako si"	sawtacie
+106	aphorisms	Bieleśmy za tutór sulór łycze pro miej en noce. Ił sul jesz 	The most beautiful of all suns shines for me during the nigh	Najpiękniejsze ze wszystkich słońc świeci dla mnie nocą. Tym	sawtacie
+107	aphorisms	Omórz je dzieszyderz jelkwiniej jani. [Stanisław Dygat]	Love is desiring someone's soul. [Stanisław Dygat]	Miłość jest pożądaniem czyjejś duszy. [Stanisław Dygat]	sawtacie
+108	aphorisms	Omórz je łu sas kary, nieoprzecaty, uta sień nyłu kołorze i 	Love is a precious stone, invaluable, but without any colour	Miłość jest to kamień drogi, nieoceniony, ale bez żadnej bar	sawtacie
+109	aphorisms	Kośkiny enjematy je poeta. [Płatuń]	Everone in love is a poet. [Plato]	Każdy zakochany jest poetą. [Platon]	sawtacie
+110	aphorisms	En reumatyka i omórz wiory krzedzie sie oprzymu tęk, kędy je	In reumatism and true love one starts believing only then, w	W reumatyzm i prawdziwą miłość wierzy się dopiero wtedy, gdy	sawtacie
+111	aphorisms	Jemu Żowanu (szczycie kiju). [Irl-Ania]	I love Jan (you know whom). [Irl-Ania]	Kocham Jana (wiecie kogo). [Irl-Ania]	sawtacie
+112	aphorisms	Nie ja niłu faczylerzu ka mutąd jekuna miedzana en strarodna	Nothing is easier than changing an average woman into an ext	Nie ma nic łatwiejszego, niż zmienić kobietę przeciętną w wy	sawtacie
+113	aphorisms	Bień je, kaniesęgień, maż ki dziczerzy, kód nie, łu en probo	It is good, dammit, and whoever says it's not should be punc	Dobrze jest, psiakrew, a kto powie, że nie, to go w mordę. [	sawtacie
+114	aphorisms	Omórz – łągwiestać po wyniewkaceń jotrzana ku siekądziej prz	Love – the desire to be one with another person forever. [Pl	Miłość – tęsknota za wiecznym zjednoczeniem z drugą osobą. [	sawtacie
+115	aphorisms	Kośkiny za nosz je libier sęginy. Wądźkąk sie nosz oprerzy, 	Everybody is a book of blood; wherever we're opened, we're r	Każdy z nas jest krwawą księgą. Gdziekolwiek się nas otworzy	sawtacie
+116	aphorisms	Flictać sie pocie jęwnier miecim en mnieśmu graniku sobłu. [	Happiness can be found even in the smallest grain of sand. [	Szczęście można znaleźć nawet w najmniejszym ziarenku piasku	sawtacie
+117	aphorisms	Kędy womień je enjematy, przezięta sie mędzi tały, kwały dzi	When a person is in love, he shows himself to the world the 	Kiedy człowiek jest zakochany, ukazuje się światu takim, jak	sawtacie
+118	aphorisms	Jemaszcząd sułu siej je orzydzień romansu o tuta wita. [Osca	To love oneself is the beginning of a life-long romance. [Os	Pokochanie samego siebie jest początkiem romansu na całe życ	sawtacie
+119	aphorisms	Kółka mie sur swej kród komód szeł, kółka mie sur swa szpatł	Set me as a seal on your heart, as a seal on your arm for lo	Połóż mnie na swym sercu jak pieczęć, połóż mnie na swym ram	sawtacie
+120	aphorisms	Omórz sie pocie złaczrar za krodzie sięgłamięć ku sęgnie i k	Love can be ripped out of the heart only with flesh and bloo	Miłość można wyrwać z serca tylko z krwią i z mięsem, o ile 	sawtacie
+121	aphorisms	Niekwali po kadziąd krzepyskłu nie posą że krzedzier en sul.	After the dusk some people cannot believe in the sun anymore	Niektórzy po zapadnięciu zmroku już nie potrafią uwierzyć w 	sawtacie
+122	aphorisms	Okętrąd cie jora fat, omiczyca ku ciej dzilec, uta sur jemas	Meeting you was fate, becoming your friend was a choice, but	Spotkanie ciebie było przeznaczeniem, przyjaźń z tobą wybore	sawtacie
+123	aphorisms	Szy sie gwarda jęsiem en męć, czał oprośma [Phill Bosmans]	If you look up together, heaven draws closer. [Phill Bosmans	Jeśli patrzy się razem w górę, niebo się przybliża. [Phill B	sawtacie
+124	aphorisms	Ania jora bieleśma jekuna, kwała kędykąk widszerzymy. Kwałyk	Ania was the most beautiful woman we had ever seen. Any man 	Ania była najpiękniejszą kobietą, jaką kiedykolwiek widzieli	sawtacie
+125	aphorisms	Jotrzeńtać pocie nie szer przewięć łąga pro nostrzu omorze. 	Forever may not be long enough for our love. [Live]	Wieczność może nie być wystarczająco długa dla naszej miłośc	sawtacie
+126	aphorisms	Nieki nie anice komód Anica. [JvS]	Nobody annies like Annie. [JvS]	Nikt nie ankuje jak Anka. [JvS]	sawtacie
+127	aphorisms	Komód wisz szer jematy, si jemabły. [Owidz]	To be loved, be loveable. [Ovid]	"UT AMERIS, AMABILIS ESTO. [OVIDIUS]
+
+Jeśli chcesz być kochan"	sawtacie
+128	aphorisms	Mąd sie kęble, sul oszczedzie, maż jekwiała sie finie [Jędrz	The world is changing, the sun goes down, and the vodka is a	Świat się zmienia, słońce zachodzi, a wódka się kończy. [And	sawtacie
+129	aphorisms	Szy sięgły łok, wądź posu cie widzier, si en miór suniór, dr	If the only place where I could see you was in my dreams, I'	Gdyby jedyne miejsce, gdzie mogę cię ujrzeć, istniało tylko 	sawtacie
+131	aphorisms	Cogito ergo ZUM – Pięzu, dąk ZU. [Jędrzej Sapiczyny]		Cogito ergo ZUM – Myślę, więc JEZDEM. [Andrzej Sapkowski]	sawtacie
+132	aphorisms	Mośma wółtać nie je suł seks, uta poszeń, kwała li okąpanie.	The greatest lust is not sex itself, but the passion that go	Największą rozkoszą nie jest sam seks, ale pasja, która mu t	sawtacie
+133	aphorisms	Włyję onie komód wędzie, jekwa o swa fęć nie wrzecie. File, 	Years pass by like water, always forward, never back. Even t	"Płyną lata jako fale, nie wraca woda do źródła. 
+Kobiety, co"	sawtacie
+134	aphorisms	Włomu, maż sie nie zjardze.	I am on fire, but not burning up.	"FLAGRO NON CONSUMOR.
+
+Płonę, ale się nie spalam."	sawtacie
+135	aphorisms	Posu rzesistar tuci forzy ciętacenie. [Oscar Wilde]	I can resist anything but temptation. [Oscar Wilde]	Mogę się oprzeć wszystkiemu poza pokusą. [Oscar Wilde]	sawtacie
+136	aphorisms	Omórz wiortabły: rzeć olegaceni, gratlęć kwalej womień moter	True love: a web of allegiances that help man grow mature. [	Miłość prawdziwa: sieć powiązań, dzięki którym człowiek dojr	sawtacie
+137	aphorisms	Sięgłamięć woszka nie kęble opinieni. [prowrzeb wenedki]	Only a cow does not change its views. [Polish proverb]	Tylko krowa nie zmienia poglądów. [przysłowie polskie]	sawtacie
+138	aphorisms	Omórz je molaca kontażuza: nieki nie szczyje, kędy iłu leż k	Love is an infectious illness: nobody knows, when it will ca	Miłość jest chorobą zaraźliwą: nikt nie wie, kiedy jego też 	sawtacie
+139	aphorisms	Czarle okle ją o czała, grzysie ją o paradyz, okle wierdzie 	Blue eyes go to heaven, grey eyes to paradise, green eyes go	Les yeux bleus vont aux cieux, les yeux gris au paradis, les	sawtacie
+140	aphorisms	En dzimiedze rucie wicie wymaniej en fędu ośkierzej jęwieńsz	In the middle of our life's walk I found myself in a dark wo	W połowie drogi ludzkiego żywota w głębi ciemnego znalazłem 	sawtacie
+141	aphorisms	Jęwieńszy brakęcia kopła jętar sprzerza szymla i womnie czyw	I have found the missing link between the higher ape and civ	Znalazłem brakujące ogniwo pomiędzy naczelnym i człowiekiem:	sawtacie
+142	aphorisms	Roza siębła mrzydze en maje. [Chanson de geste]	A rose she seems in a morning in May. [Chanson de geste]	"La rose samble en mai la matinee. [Chanson de geste]
+
+Różą s"	sawtacie
+143	aphorisms	Dłuczy narkotyku, nemież szczyjesz: szer Twa jekuna – dłucza	Sweet drug, don't you know: to be your woman – a sweet death	Słodki narkotyku, przecież wiesz: być Twoją kobietą – słodka	sawtacie
+144	aphorisms	Łu Ci promiotu, miej surjematy: odądźkąk Ty jerzysz jer, jo 	This I promise you, my beloved: wherever you will go I shall	To Ci przyrzekam, mój ukochany: dokądkolwiek się udasz, podą	sawtacie
+145	aphorisms	Fieczyś si lec niętra miej kród i odykszyś jądź pacz, miej k	You made your bed inside my heart and brought peace there, m	Sie itse syämeeni sijasit ja rauhan rakkahin rakensit, sytyt	sawtacie
+146	aphorisms	Wieszczorą sie komód rocie pro oprzycenie kanału.	They dressed up like rats for the opening of a canal.	Wystroili się jak szczury na otwarcie kanału.	sawtacie
+147	aphorisms	Nieki forzy łynie jarżęciej nie widzie mie. [Enrique Iglesia	No-one sees me, but a silver moon. [Enrique Iglesias]	Nikt mnie nie widzi, oprócz srebrnego księżyca. [Enrique Igl	sawtacie
+148	aphorisms	Karześma omica, szyk je ku nosz: niec ty sień miej, niec jo 	My fair lady, thus it is with us: nor you without me, nor I 	Bele amie, si est de nus: ne vus sans mei, ne jo sans vus. [	sawtacie
+149	aphorisms	Dwusprzedzieśma mieź posa... maż jo trąć molata za omorze! [	Month #12 is passing by... and I'm still sick with love! [Ir	Dwunasty miesiąc mija... a ja wciąż chora z miłości! [Irl-An	sawtacie
+150	aphorisms	Omórz łu nie stoń, en kwału sie siąprz pocie jęwnier swa ima	Love is not a pond, in which you can always see your own ima	Miłość to nie staw, w którym mozna zawsze znaleźć swoje odbi	sawtacie
+151	aphorisms	Fryce krzeszczę en łymnie sule, ludzie otamię en łymnie omor	Fruits grow in the light of the sun, people in the light of 	Owoce dojrzewają w świetle słońca, ludzie zaś w świetle miło	sawtacie
+152	aphorisms	Kód je omórz? En kąt jo szczyje, je łu kombinaceń poszenie, 	What is love? As far as I can tell, it is passion, admiratio	Czym jest miłość? O ile wiem, jest to kombinacja namiętności	sawtacie
+153	aphorisms	Omórz łu molaca kółkęcia o lec en parar.	Love is a disease that ties people to their beds in pairs.	Miłość to choroba kładąca parami do łóżka.	sawtacie
+154	aphorisms	Jemar łu flictać. Szer jemata łu grądtać jekunie. [Jadwiga W	Loving is happiness. Being loved is the greatness of a woman	Kochać to szczęście. Być kochaną to wielkość kobiety. [Jadwi	sawtacie
+155	aphorisms	Żowik rzewieńszy! Fiń celibatu! [Irl-Ania]	Johnny is back! Celibate is over! [Irl-Ania]	Janek wrocił! Koniec celibatu! [Irl-Ania]	sawtacie
+156	aphorisms	Mia wita je splęda, miej omórz je pery. Widszy aniołu, iłu s	My life's brilliant, my love is pure. I saw an angel, of tha	Moje życie jest wspaniałe, moja miłość jest czysta. Ujrzałam	sawtacie
+157	aphorisms	Nie dzieszydru mółt sur Ścielica, je sięgłamieć wyna rzej, k	I don't want a lot for Christmas, there's just one thing I n	Nie pragnę wiele na Gwiadzkę, jest tylko jedna rzecz, której	sawtacie
+158	aphorisms	Oszczydziem sul, prokódsi ła noc sie nękwa nie finier... [Ir	Let's kill the sun, so that this night will never end... [Ir	Zabijmy słońce, żeby ta noc nigdy nie dobiegła końca... [Irl	sawtacie
+159	aphorisms	Odzej en noce onwalica okunieszczędu. Łu tęk tut się komięcy	Tonight is the anniversary of our acquaintance. That was whe	Dziś w nocy rocznica poznania. To wtedy się wszystko zaczęło	sawtacie
+160	aphorisms	Mośma fam jenie wymaniej łu szer koprzęduty.	The deepest hunger of the human soul is to be understood.	Największy głód ludzkiej duszy to być zrozumianym.	sawtacie
+161	aphorisms	Wołu gratłar Ci po omórz... I uru dzie postrór onór jęsiem. 	I want to thank you for your love... And I am praying for th	Chcę podziękować Ci za miłość... I modlę się o następne lata	sawtacie
+162	aphorisms	Wień zanowu en le brocza i kółka swej kropu. Je enmiedz łu k	Come into these arms again and lay your body down. There is 		sawtacie
+163	aphorisms	Ja koszczęca mółt niepera, kędy gwardu o cie, jematy. [Irl-A	I have a very unclean conscience when I'm looking at you, my	Mam bardzo nieczyste sumienie, kiedy patrzę na ciebie, kocha	sawtacie
+164	aphorisms	Inteliżęca je komód włymię – koju je profędzierzy, iłu mień 	Intelligence is like river – the deeper it is, the less nois	Inteligencja jest jak rzeka – im jest głębsza, tym mniej rob	sawtacie
+165	aphorisms	Taczęci nie szynie sawi – są szafie fierzmacie sur klucz wól	Silence does not necessarily mean wisdom – some cupboards ar	Milczący nie znaczy mądry – są szafy zamknięte na klucz choć	sawtacie
+166	aphorisms	Docz sie uszkiełtar – szansa puka ciępór mółt ślęć...	Learn how to listen – sometimes chance knocks very silently.	Naucz się słuchać – szansa puka czasami bardzo cicho...	sawtacie
+167	aphorisms	Bonanoc, ściele, kuniesku łymię kłarzerzy dzie wosz – łu ił.	Good night, stars, I know a brighter light than you – it's h	Dobranoc, gwiadzdy, znam jaśniejsze światło od was – to on. 	sawtacie
+168	aphorisms	Dzarnu karpica, choinica, prezencie i Żowan – przeskrzypceń 	Tomorrow carp, a Christmas tree, presents and Jan – the reci	Jutro karpik, choinka, prezenty i Jan – przepis na wymarzone	sawtacie
+169	aphorisms	Enwitu tucie bonie janiele – odzej je Ścielica miej wicie! [	I am inviting all good angels – today is the Christmas Eve o	Zapraszam wszystkie dobre anioły – dziś jest Gwiazdka mojego	sawtacie
+170	aphorisms	En fiostar wółćmar dziedonie ci kród, maż postru onu trąć je	Last Christmas I gave you my heart, and the very next year w	W ostatnie święta oddałam ci serce, a następnego roku wciąż 	sawtacie
+171	aphorisms	Oczędszoru kród twej ku swu baże, jo wołu, kód nosz embrocze	I will set your heart afire with my kiss, I want us to be su	Zapalę serce twoje swoim pocałunkiem, ja chcę, by nas ogarną	sawtacie
+172	aphorisms	Moszkieł ideały – nieposibły? Utaż posibły! Kuniesku tału! [	The ideal man – impossible? But no, possible! I know one of 	Mężczyzna idealny – niemożliwe? Ależ możliwe! Znam takiego! 	sawtacie
+173	aphorisms	Szy bień si, kędy si śpiędzier ła noc, szęć jemata par cie? 	Would it be all right if I spent tonight being loved by you?	Czy byłoby dobrze/w porządku, gdybym spędziła tę noc, będąc 	sawtacie
+174	aphorisms	Rzyki nie je ił, ki poszedzie płerześmie, uta ił, ki ofole m	Rich is not he who owns the most, but he who needs the least	Nie jest bogaty ten, kto ma najwięcej, ale ten, kto potrzebu	sawtacie
+175	aphorisms	Rzemańszorą nów sięgłamięć dwu dzeje... Uta jo nemię nie kąt	Only two days left... But after all, I don't count. :-( [Irl	Zostały nam tylko 2 dni... Ale ja przecież nie liczę. :-( [I	sawtacie
+176	aphorisms	Nie joru dromier, nie posu rześpierar przekód jec puzasz ku 	I won't sleep, I can't breathe untill you're resting here wi	Nie będę spać, nie mogę oddychać dopóki nie odpoczniesz tu z	sawtacie
+177	aphorisms	Śpiecu sur Żowiku sur Skype i GG. Szy jelki łu widszy? [Irl-	I'm waiting for Jan on Skype and GG. Has anybody seen him? [	Czekam na Janka na Skype i GG. Czy ktoś go widział? [Irl-Ani	sawtacie
+178	aphorisms	Dzej sie ścięgwie, powiecz ściele mi splędzieszczę. O, szy k	The day comes to an end, soon the stars will shine to me. Oh	Przygasa dzień, wnet gwiazdy mi zabłysną. O, gdybym z tobą b	sawtacie
+179	aphorisms	Ku okłór Twie szekwu pypile – dwu łacze szafirze i dwie miśc	With my eyes I try to catch your pupils – two sapphire lakes	Oczami Twe ścigam źrenice – dwa szafiru jeziora i dwie tajem	sawtacie
+180	aphorisms	Nie dzicz nił. Omórz oszczatu sięgłamięć par buszka. [Lila L	Don't say anything. I take love only mouth-to-mouth. [Lilla 	Nie mów nic. Miłość przyjmuję tylko doustnie. [Lilla Latus]	sawtacie
+181	aphorisms	Odze ściele, prostokód gwardu o le sule, kód ty, uta sień ci	I hate the stars, because I look at same ones as you do, wit	Nienawidzę gwiazd, ponieważ patrzę na te same, co ty, ale be	sawtacie
+182	aphorisms	Kiełmię fidycze? Kędy dasz jelkiej swej kród en wyn man, en 	The summit of confidence? That is when you give someone your	Szczyt zaufania? Kiedy dajesz komuś swe serce do jednej ręki	sawtacie
+183	aphorisms	Rzej womnie je łucar. Rzej dziejór – dar wicurza. [Homer]	Fighting is a thing of people. Giving victory a thing of the	Rzeczą człowieka jest walczyć. Rzeczą bogów – dać zwycięstwo	sawtacie
+184	aphorisms	Kędy kurzmy po flictać, ła fyże komód popleń, uta ośpiecata 	Happiness is like a butterfly, which, when pursued, is alway	Gdy gonimy za szczęściem, ono umyka jak motyl, ale oczekiwan	sawtacie
+185	aphorisms	Su enjemata en Żowanu! [Irl-Ania]	I'm in love with Jan! [Irl-Ania]	"Ik ben verliefd op Jan! [Irl-Ania]
+
+Jestem zakochana w Janie"	sawtacie
+186	aphorisms	Maż stawiecz, stęć jec sur rzypie nowu komięcemiętu i dziest	And now that I am standing here, on the verge of a new begin	En nu ik hier dan sta aan de rand van een nieuw begin en de 	sawtacie
+187	aphorisms	Omórz rzeże swej rzeń sień szpadzie i wyniewka sień kocionar	Love rules its kingdom without sword and unites without chai	Miłość rządzi swoim królestwem bez miecza i jednoczy bez łań	sawtacie
+188	aphorisms	Odoru szer skrzyptórz. Łu sięgły opu papierzy, kwały posu to	I love being a writer. It's the only paper work I can stand.	Uwielbiam być pisarzem. To jedyna robota papierkowa, jaką mo	sawtacie
+189	aphorisms	Baż łu kwierzer sie etaże mętanu, szy walany je o okupąd.	A kiss is like asking the upper floor whether the lower floo	Pocałunek to zapytanie się górnego piętra, czy dolne jest do	sawtacie
+190	aphorisms	Krodza parplacie ku omorze nękwa łoniąc dzie siej nie dziewa	Hearts that are filled with love will never move away too fa	Serca przepełnione miłością nigdy daleko od siebie nie odejd	sawtacie
+191	aphorisms	Sparaceń osłabie siętmię miedzekrzy, maż ofroce grędzi, komó	Mediocre feelings are weakened by separation, strong feeling	Rozłąka osłabia mierne uczucie, a wzmaga wielkie, jak wiatr 	sawtacie
+192	aphorisms	Omórz, mroć i diareje – siąprz nieośpiecacie rzeje.	Love, death and diarrhoea always come unexpectedly.	Miłość, śmierć i sraczka przychodzą znienacka.	sawtacie
+193	aphorisms	Omórz je niewła, kwała krzeje sie en kapcie. Szy iwiała niew	Love is a mist that builds up in your head. When it subsides	Miłość jest mgłą, która wytwarza się w głowie. Jeśli owa mgł	sawtacie
+194	aphorisms	Omórz ja faczej wierżenie, wywierz mocice, maż jarmatera ryc	Love has the face of a virgin, the breast of a mother, and t	Miłość ma lice dziewicy, pierś matki, a zbroje rycerza. [Z. 	sawtacie
+195	aphorisms	Bieleśma dzimiedza wicie przedzie womień, kwały nie jemawa p	A person, who never loved passionately, loses the most beaut	Najpiękniejszą połowę życia traci człowiek, który nie kochał	sawtacie
+196	aphorisms	Nie ja omiku milerzu sem jematrzyca nosz jemęcia. [Bernardin	There is no sweeter friend than a mistress who loves us. [Be	Nie ma milszego przyjaciela nad kochankę nas kochającą. [Ber	sawtacie
+197	aphorisms	Mizrabły je omórz, kwały pięza sięgłamięć dzie proprzej flic	Miserable is the love that thinks about one's own happiness 	Marna jest miłość, która myśli o własnym tylko szczęściu; ma	sawtacie
+198	aphorisms	Sięgłamięć niejemaci odzę. [Charlie Chaplin]	Only unsweet people hate. [Charlie Chaplin]	Tylko niekochani nienawidzą. [Charlie Chaplin]	sawtacie
+199	aphorisms	Omórz je omiczyca oposzonasta, siętmię wijolęci, worza wrzec	Love is a combination of friendship and passion, a violent f	Miłość jest znamiętnioną przyjaźnią, uczuciem gwałtownym, bu	sawtacie
+200	aphorisms	Szy łu nie je rzej grędzia – szyniar pro jelkiju tut? [Bruno	Isn't that a great thing, to mean everything to a person? [B	Czy to nie jest wielka rzecz – znaczyć dla kogoś wszystko? [	sawtacie
+201	aphorisms	En jemędu grędziu i sięcierzu dziewie sie łokar ileż omiczyc	In great and sincere loving there should be space for friend	W wielkim i szczerym kochaniu powinna się mieścić także przy	sawtacie
+202	aphorisms	Łu że dzeczma noc sultarza en lece wiodu... Rzestarą jękóra 	Already the tenth lonely night in an empty bed... Another fo	To już dziesiąta samotna noc w pustym łóżku... Zostały jeszc	sawtacie
+203	aphorisms	Kędy jekwa je kałma, pocie sie widziar tut. Przędź pocie sie	When water is quiet, you can see the bottom. Just like you c	Gdy woda jest spokojna, można zobaczyć dno. Tak samo można z	sawtacie
+204	aphorisms	Kap sawiu dromięcy sur wywrzy jekunie łu grędzieśmy triumf o	The head of a wise man sleeping on the breasts of a woman; t	Głowa mędrca śpiąca na piersiach kobiety to największy trium	sawtacie
+205	aphorisms	Mąd despora en okłór jekunie enjemaciej. Wyn sięgłamięć womi	The word disappears in the eyes of a woman in love. There is	Świat znika w oczach rozkochanej kobiety. Jeden tylko człowi	sawtacie
+206	aphorisms	Nie lubie, komód dzierujesz, szczysz. Miecim czał je trzyści	I don't like it when you leave, you know. Even the sky is sa	Nie lubię, jak wyjeżdżasz, wiesz. Nawet niebo smutne jest. [	sawtacie
+207	aphorisms	Kędy sie je szpuzata, że pociesz mędkar. [Margaret Mitchell]	Once you are a married woman, you can eat at will. [Margaret	Kiedy się jest zamężną, już wolno jeść. [Margaret Mitchell]	sawtacie
+208	aphorisms	Ki jema, ił dzieszydra, kódsię łu bażew rzeszpędziar baża, k	Whoever loves also desires that his kisses be answered with 	Kto kocha, ten pragnie, aby na jego pocałunki odpowiadano po	sawtacie
+209	aphorisms	Nił nie je prośmierzy jekunie enkętaciej ka jekuna enjemata.	Nothing comes closer to an enchanted woman than a woman in l	Nic nie jest bliższe kobiety zaczarowanej niż kobieta zakoch	sawtacie
+210	aphorisms	Alleluja! Dziew seksu rzewienie! [Irl-Ania]	Hallelujah! The god of sex is returning! [Irl-Ania]	Alleluja! Bóg seksu powraca! [Irl-Ania]	sawtacie
+211	aphorisms	Pocier jemar – o iłu fole finier szkoła zwiędu. [J. Lelouch]	To be able to love – for that one needs to finish the school	Umieć kochać – do tego trzeba ukończyć szkołę cierpienia. [J	sawtacie
+212	aphorisms	Jekuna dzinia omorze pocie wśrewar swa dzieścinaceń en lej b	A woman worthy of loving can recognise her destination in th	Kobieta godna miłości może upatrywać swoje przeznaczenie w t	sawtacie
+213	aphorisms	Ki jema, ił dzieruje. Uta łu sułacz mółt trzyści prze wijatk	One who loves also leaves. But that is a very cold comfort b	Kto kocha, ten odjeżdża. Ale to bardzo smutna pociecha przed	sawtacie
+214	aphorisms	Jemar sie je łu szer pruny o enjemąd sie en parfiecenie. [Go	To love one another is the tendency to fall in love with per	Kochać się jest to być skłonnym do rozmiłowania się w doskon	sawtacie
+215	aphorisms	Jekuna, kędy nie jema, sięcie sie nieofolata sur mędu. [Wład	When a woman does not love, she feels unneeded in the world.	Kobieta, gdy nie kocha, czuje się niepotrzebną na świecie. [	sawtacie
+216	aphorisms	Omórz en ziścięce kostęć komięce sie dzie nowu. [Maria de Se	Love is essentially something which constantly starts from t	Miłość w istocie ciągle zaczyna się od nowa. [Maria de Sevig	sawtacie
+217	aphorisms	Bona fiemnia je sawa en salonu, maga en kczynie i nimfa en k	A good woman is a sage in the drawing-room, a sorceress in t	Dobra żona jest mędrcem w salonie, czarodziejką w kuchni i n	sawtacie
+218	aphorisms	I zanowu gwardu o le sule ściele, kód Ty, sień Ciej... Slaap	And again I'm watching the same star as you, without you... 	I znów patrzę na te same gwiazdy, co Ty, bez Ciebie... Slaap	sawtacie
+219	aphorisms	Imitacenie omorze kostą karzu ka omórz wiory. [Jan Roś]	Imitations of love are more expensive than true love. [Janus	Imitacje miłości kosztują drożej niż miłość prawdziwa. [Janu	sawtacie
+220	aphorisms	En omorze nił nie enwadzie en okąt forzy froce omorze, łu ma	Nothing comes into account except for the power of love, tha	W miłości nic nie wchodzi w rachubę prócz siły miłości, tego	sawtacie
+221	aphorisms	Jemu twie linie, wita enczydszy en łar źryz. I twie okle tra	I love your lines, carved by life into a smile. And your eye	Kocham twoje linie, życie wyryło w nich uśmiech. I twoje ocz	sawtacie
+222	aphorisms	Miecim, komód wątu, su flicza. Strań, wiortać? [Irl-Ania]	Even when I throw up, I'm happy. Strange, isn't it? [Irl-Ani	Nawet, jak rzygam, jestem szczęśliwa. Dziwne, prawda? [Irl-A	sawtacie
+223	aphorisms	Omórz fryszcze kocionie sultydnie. [André Maurois]	Love smashes the chains of loneliness. [André Maurois]	Miłość rozbija okowy samotności. [André Maurois]	sawtacie
+224	aphorisms	Fole wiwier komód janiół nowonosty, komód jekuna, kwała jema	One needs to live like a newborn angel, like a woman in love	Trzeba żyć jak nowo narodzony anioł, jak kobieta, która koch	sawtacie
+225	aphorisms	Zmrzeżęć sie en Twór okłór, nie kłamu pro ożycie. [Irl-Ania]	Drowning in your eyes, I am not calling out for help. [Irl-A	Tonąc w Twoich oczach, nie zawołam o pomoc. [Irl-Ania]	sawtacie
+226	aphorisms	Kośkiny moszkieł dzieśrewa nowa szansa... uta ku jałtrzej je	Every man deserves another chance... but with another woman.	Każdy mężczyzna zasługuje na kolejną szansę... ale u innej k	sawtacie
+227	aphorisms	Janiele zistą. Szczyje łu, dzielęc enwadszyś en mia wita. [I	Angels exist. I know that since you came into my live. [Irl-	Anioły istnieją. Wiem to, odkąd wszedłeś w moje życie. [Irl-	sawtacie
+228	aphorisms	Fęć lirycze nie je harem, uta łągwieszczęca o wyna jekuna...	The source of lyricism is not a harem, but the longing for o	Źródłem liryki nie jest harem, lecz tęsknota za jedną kobiet	sawtacie
+229	aphorisms	Womień punie si mędu, prokód piętar mąd. Par onie ił popła s	A man sets himself the task of portraying the world. Through	Człowiek podejmuje dzieło malowania świata. Z upływem lat za	sawtacie
+230	aphorisms	Zjardze sie tuta en foku twiej poszenie. Jękóra... [Irl-Ania	I am all burning in the fire of your passion. More... [Irl-A	Spalam się cała w ogniu Twojej namiętności. Jeszcze... [Irl-	sawtacie
+231	aphorisms	Jemęć wiortablemięć, jekuna ku zryzu sur buszcze facze tut p	When truly loving, a woman does everything for her most belo	Kochając prawdziwie, kobieta z uśmiechem na ustach robi wszy	sawtacie
+232	aphorisms	Kędy noc sie oprośma, uru, prokód szer ku ciej. [Wierżeń]	When the night is drawing closer, I pray for being with you.	Kiedy noc nadchodzi, modlę się, by z tobą być. [Virgin]	sawtacie
+233	aphorisms	Kędy wółtać posi oszczedzier, si że mrota mile wieczy. [Irl-	If bliss could kill, I would have been dead a thousand times	Gdyby rozkosz mogła zabijać, byłabym martwa tysiące razy. [I	sawtacie
+234	aphorisms	La, la, la, la, omórz je rotaty! [Stanisław Soyka]	La, la, la, la, love is crazy! [Stanisław Soyka]		sawtacie
+235	aphorisms	Omórz, komód siemnik ściwy, ku więtu wiołucz woła, uta kędy 	Love, just like a summer seed, flies quickly in the wind, bu	Miłość, jak nasionko leśne z wiatrem szybko leci, ale gdy dr	sawtacie
+236	aphorisms	Szy pocie szer śrewtydzień swawierza dzie śrewtydnie omorze?	Can there be a sweeter slavery than the slavery of love? [Ir	Czy może być słodsza niewola od niewoli miłości? [Irl-Ania]	sawtacie
+237	aphorisms	Si fiedzioły en omiczyce i fiedzioły en omorze, maż dzie jał	Be faithful in friendship and faithful in love, and about th	Bądź wierny w przyjaźni i wierny w miłości, a o pozostałych 	sawtacie
+238	aphorisms	Walęcinice – dzej, en kwału wita sie komięcy! [Żowan Sasomęt	Valentine's Day – the day, when life began! [Jan van Steenbe	Walentynki – dzień, w którym życie się zaczęło! [Jan van Ste	sawtacie
+239	aphorisms	En nostrzej postrzej onwalice – gratłu Ci, kód jesz, jematy.	On the day of our next anniversary – thank you for being the	W naszą kolejną rocznicę – dziękuję Ci, że jesteś, kochany. 	sawtacie
+240	aphorisms	Stawiecz że szczyje, kód łu za dołorze noszcze sie mojerza f	I now by now that the greatest happiness is born out of pain	Teraz już wiem, że to z bólu rodzi się największe szczęście.	sawtacie
+241	aphorisms	Nie dziepląż mi omorze, jematy, nąk jo dziedonaru ci łu częt	Don't stint on your love for me, dear, because I will give y	Nie żałuj mi miłości, kochanie, bo ja oddam ci ją po stokroć	sawtacie
+242	aphorisms	Maż sur tawle włomawą krodzika rubrze... Kołaceń mierakłuza 	And red hearts were burning on the table... A wonderful dinn	A na stole płonęły czerwone serduszka... Cudowna kolacja z m	sawtacie
+243	aphorisms	Komód ja cie wetniar, prokódsisz że nękwa nie dźwiar dzierur	How should I keep you here, so that you would never have to 	Jak mam cię zatrzymać, byś już nigdy nie musiał odjeżdżać? [	sawtacie
+244	aphorisms	Omórz bieleśmie flurzeszcze z łynie – je czecy, dąk nie ofol	Love flourishes best under the moon – it is blind, therefore	Miłość najpiękniej zakwita przy księżycu – jest ślepa, więc 	sawtacie
+245	aphorisms	Dwie porule sięplicze szyk, tut, kód wołu ci dar, en łar dwa	Two words so simple, everything I want to give you is in tho	Dwa słowa proste tak, wszystko, co chcę ci dać, w tych dwóch	sawtacie
+246	aphorisms	En omorze ki nie dziewora, suł je dzieworaty. Maż nemież – z	In love, he who does not devour is devoured himself. But the	W miłości kto nie pożera, sam jest pożerany. A jednak — podd	sawtacie
+247	aphorisms	Udamięć dotarsi cie ku tutu. Szkoda, kód dar ci nie posu ści	I would happily give you everything. Too bad that I can't gi	Chętnie obdarowałabym cię wszystkim. Szkoda, że dać ci nie m	sawtacie
+248	aphorisms	Faczesz mie dziemięcia en sięzór sanór. Nie wołu że sie skie	You make me insane in my right mind. I don't want to recover	Czynisz mnie szaloną przy zdrowych zmysłach. Już nie chcę wy	sawtacie
+249	aphorisms	Szczewa, kód cie jemu, przekód cie okętrze, śpiecawa par tut	I knew I loved you before I met you, I've been waiting all m	Wiedziałam, że cię kocham, zanim cię poznałam, czekałam całe	sawtacie
+250	aphorisms	Womni, kwali je dziwczył ku sułu siej, probablemięć ileż jer	A person who has difficulties with himself, will probably ha	Człowiekowi, któremu jest trudno z samym sobą, prawdopodobni	sawtacie
+251	aphorisms	Sięgłamięć omórz pocie wetniar ciępu. [Żowan Jaków Rosół]	Only love can stop time. [Jean Jacques Rousseau]	Tylko miłość potrafi zatrzymać czas. [Jean Jacques Rousseau]	sawtacie
+252	aphorisms	Omórz je nat sympatie spirytualej; i szy ła sympatia nie nos	Love is the offspring of spiritual affinity and unless that 	Miłość jest dzieckiem duchowej sympatii; i jeżeli ta sympati	sawtacie
+253	aphorisms	Wyna guta omorze krzeje tuty marz łokrzymar. [Marek Fliczy H	One drop of love creates a whole sea of tears. [Bolesław Szc	Jedna kropla miłości tworzy całe morze łez. [Bolesław Szczęs	sawtacie
+254	aphorisms	Omiczyca i omórz jekunie olegacie en wynu łu legaceń płerześ	The friendship and love of a woman, joined into one, that is	Przyjaźń i miłość kobiety połączone w jedno to najcenniejszy	sawtacie
+255	aphorisms	Pieskieł ludzi za omorze morze, maż szyk mółt za łu wiwie! [	Few people die for love, but so many people live for it! [Jó	Mało ludzi z miłości umiera, a tak wiele z niej żyje! [Józef	sawtacie
+256	aphorisms	Mia flictać ja wyn numię: Jannessie. [Irl-Ania]	My happiness carries only one name: Jannessie [Irl-Ania]	Moje szczęście ma jedno imię: Jannessie. [Irl-Ania]	sawtacie
+257	aphorisms	Biew łoc – nie mieć woszkar o niełowuręca!	Drink milk – don't force cows into unemployment!	Pij mleko – nie wysyłaj krów na bezrobocie!	sawtacie
+258	aphorisms	Omórz – łu śrewtydzień, o kwała kośkiny wadzie komód włątarz	Love is the kind of slavery, into which everyone goes volunt	Miłość – to niewola, do której każdy idzie na ochotnika. [Wł	sawtacie
+259	aphorisms	Jekuna płuręcia za omorze je trów biała en miór okłór, prokó	A woman crying for love in my eyes is too beautiful for me t	Kobieta płacząca z miłości jest zbyt piękną w moich oczach, 	sawtacie
+260	aphorisms	Omórz sień urzałar – łu wita sień finie! [Zygmunt Rubrzyny]	Love without limits – that's life without end! [Zygmunt Kras	Miłość bez granic – to życie bez końca! [Zygmunt Krasiński]	sawtacie
+261	aphorisms	Kośkiny moszkieł wlarsi owiar Desdemona u Ofelia komód fiemn	Every one wishes a Desdemona or Ophelia for a wife, — creatu	Każdy mężczyzna chciałby mieć za żonę Desdemonę albo Ofelię:	sawtacie
+262	aphorisms	Kród dolęci je mółt piejerzy dzie dzięcie dolęciej, nąk nie 	An aching heart is many times worse than an aching tooth, be	Bolące serce jest o wiele gorsze od bolącego zęba, bo nie da	sawtacie
+263	aphorisms	Moszkli jerzę siąprz łu, kód fieczorą za łór jekunie. [Żowan	Men will always be what women make them be. [Jean Jacques Ro	Mężczyzni będą zawsze tym, co zrobiły z nich kobiety. [Jean 	sawtacie
+264	aphorisms	Omórz łu splędórz sule, dun fatu i bieltać momiętu. [Safona]	Love is the splendour of the sun, a gift from fate, and the 	Miłość to blask słońca, dar losu i piękno chwili. [Safona]	sawtacie
+265	aphorisms	Jekuna dziewienie przykłuza sięgłamięć en dwór kazór: kędy m	A woman becomes dangerous only in two cases: when a man does	Kobieta staje się niebezpieczna tylko w dwóch wypadkach: gdy	sawtacie
+266	aphorisms	Omórz je win sokry, włyjęci za krodzie dziejór o krodza wyma	Love is a sacred wine that flows from the heart of gods to t	Miłość jest świętym winem, płynącym z serca bogów do serc cz	sawtacie
+267	aphorisms	Omórz nie tole froce. I nie puzarzy, przekód lej nie topierz	Love does not tolerate force. And it will not rest before it	Miłość nie toleruje siły. I nie spocznie, póki jej nie stopi	sawtacie
+268	aphorisms	Sień ciej o koście su komód nakła sień wiołór. Nie dziewadź!	Without you on my side I am like a ship without sails. Don't	Bez Ciebie u boku jestem jak okręt bez żagli. Nie odchodź! [	sawtacie
+269	aphorisms	Sfugasz omórz par uszcz, ił enwołarzy ci par wniastra. [Koźm	If you chase away love through the door, it comes back to yo	Przegonisz miłość drzwiami, ona ci wleci oknem. [Koźma Prutk	sawtacie
+270	aphorisms	Twej numię jeka en miej jenie komód muzyka: Żowan, Żowan, Żo	Your name plays in my mind like music: Jan, Jan, Jan... [Irl	Twoje imię gra w mej duszy jak muzyka: Jan, Jan, Jan... [Irl	sawtacie
+271	aphorisms	Flictać szpuzała sprota sie sur talentu o omiczyca. [Frydryk	Happiness in marriage depends on the talent for friendship. 	Szczęście małżeńskie polega na talencie do przyjaźni. [Fryde	sawtacie
+272	aphorisms	Nie pocie womień owiar mojerzu ciozuru sem boniej fiemnie ni	A man cannot have a greater treasure than a good wife, nor a	Nie może człowiek mieć większego skarbu nad dobrą żonę ani w	sawtacie
+273	aphorisms	Żowicze, ile porule są pro ciej: ty jesz mia flictać. Nie po	Jannessie, these words are for you: you are my happiness. I 	Jannessie, deze woorden zijn voor jou: jij bent mijn geluk. 	sawtacie
+274	aphorisms	Mia ownięca je komód folik en więtu. [Irl-Ania]	My future is like a leaflet in the wind. [Irl-Ania]	"Moja przyszłość jest jak listek na wietrze. [Irl-Ania]
+
+Mijn"	sawtacie
+275	aphorisms	Nie wołu nił forzy dzarnu czartanu... [Irl-Ania]	I don't want anything but a safe tomorrow... [Irl-Ania]	"Alles wat ik wil, is zeker zijn van morgen... [Irl-Ania]
+
+Ni"	sawtacie
+276	aphorisms	Omórz je kawla, en kwalej morzemy za flictacie. [Karół Kryl]	Love is a cage, in which we die of love. [Karel Kryl]	Miłość jest klatką, w której umieramy ze szczęścia. [Karel K	sawtacie
+277	aphorisms	Enjematy: źryza endromięć sie. [Szczepan Brzosiny]	In love: falling asleep with a smile. [Stefan Napierski]	Zakochany: uśmiecha się zasypiając. [Stefan Napierski]	sawtacie
+278	aphorisms	Płuru łokrzymie niewiżyble. [Irl-Ania]	I am crying invisible tears. [Irl-Ania]	"Ik ween onzichtbaare tranen. [Irl-Ania]
+
+Płaczę niewidocznym"	sawtacie
+279	aphorisms	Nie jerzy rozar jałbar en miu bukietu. Prokoju? [Irl-Ania]	There won't be any white roses in my bouquet. Why? [Irl-Ania	Er zullen geen witte rozen in mijn boeket zijn. Waarom? [Irl	sawtacie
+280	aphorisms	Bakterie leż jaję drzec o wita, śpieczalemięć en każe!	Bacteria have a right to live as well, especially in the che	Bakterie też mają prawo do życia, szczególnie w serze!	sawtacie
+281	aphorisms	Baż mie, maż parswadszerzysz sie, komód su pędruza. [Sylvia 	Kiss me, and you will find out how important I am. [Sylvia P	Pocałuj mnie, a przekonasz się, jaka jestem ważna [Sylvia Pl	sawtacie
+282	aphorisms	Porła o mie szyk, nąk lubie porułar twar sopórz... Dzicz szy	Say yes to me, because I like the taste of your words... Say	Mów do mnie tak, bo lubię słów twoich smak... Mów tak. [Goya	sawtacie
+283	aphorisms	Tut wyn odądź wadziesz, jęwieńszoru cie, miecim kędy mi fole	No matter where you go, I will find you, if it takes a thous	Wszystko jedno dokąd idziesz, znajdę cię, nawet jeśli mi na 	sawtacie
+284	aphorisms	Przefiararsi szer twa fiemna, ka poszedziar ur Przęcze. [Mae	I would prefer to be married to you than to have the Prince'	B'fhearr leam fhin a bheith riut posda na cuid ór a Phrionns	sawtacie
+285	aphorisms	Wiżyblemięć li, kwali dziemięcę za omorze, jorą że przełu ro	Obviously those, who go crazy for love, were already crazy b	Podobno ci, którzy szaleją z miłości, byli już przedtem wari	sawtacie
+286	aphorisms	Ił dzieruszy... Zanowu łoniąc nów o sie. [Irl-Ania]	He's gone... Once again we are far away from each other. [Ir	Odjechał... Znów daleko nam do siebie. [Irl-Ania]	sawtacie
+287	aphorisms	O miej omórz, wadź że o mie, jematy! [Devdas]	O my love, come to me now, beloved! [Devdas]	"O mere piyaa ab aa jaa re mere piyaa! [Devdas]
+
+O moje kocha"	sawtacie
+288	aphorisms	Ił je za sonie, maż wieścity en kocidzańtać... [Madzalena Łu	He comes from a dream, but is dressed like everyday life... 	On jest ze snu, a ubrany w codzienność... [Magdalena Walczak	sawtacie
+289	aphorisms	Ił splędórz, kwały jałtrzy en miej wśrewą, w dera, nąk olęc 	That glare that others see in me, let is last, because I've 	Ten blask, który inni we mnie dostrzegają, niech trwa, bo do	sawtacie
+290	aphorisms	Wadu sur splędorze sule, o, o...	I'm walking on sunshine, oh, oh...	Chodzę na blasku słońca, o, o...	sawtacie
+291	aphorisms	Kośkina ruta je faczylerza, kędy widziesz łu, kód bony je...	Every way is easier, when you see what is good... [Kasia Kow	Każda droga jest łatwiejsza, gdy widzisz to, co dobre jest..	sawtacie
+292	aphorisms	Miej kród je talemięć bosz, komód pocie szer sięgłamięć kród	My heart is so low like only a woman's heart can be [Mary Bl	Moje serce jest tak zdołowane, jak tylko serce kobiety może 	sawtacie
+293	aphorisms	Joru tweja en ilej wicie i en kośkiniej postrzej. Żyru. [Irl	I will be yours in this life and in all lifes to come. I swe	Będę twoja w tym życiu i w każdym następnym. Przyrzekam. [Ir	sawtacie
+294	aphorisms	Omórz ludzi małór finie sie siąprz en odze. [Francesco Petra	Bad people's love always ends with hatred. [Francesco Petrar	Miłość złych ludzi kończy się zawsze nienawiścią. [Francesco	sawtacie
+295	aphorisms	Enśpieczer en fęda pocie sięgłamięć omórz, nąk ła nie jece k	Only love can look into the depth, because it doesn't throw 	Wejrzeć w głębiny może tylko miłość, bo ona nie rzuca kamien	sawtacie
+296	aphorisms	Gwardęć en włoma, jematy, pięzu, kód leż sie starzy ku miu k	While looking in the flame, my love, I wonder what will happ	Patrząc w płomień, kochanie, myślę, co też się stanie z moim	sawtacie
+297	aphorisms	Szy mie przedszerzysz en brocza, rzepararzysz, kód woście fa	Will you take me in your arms, will you repear what was brok	Czy mnie ramionami ogarniesz, naprawisz, co popsuł los okrut	sawtacie
+298	aphorisms	Brak flicztacie łu wyn mrotąd; flicztać łu że tuty marz mrot	No happiness, that's one thing to worry about; happiness, th	Brak szczęścia to jedno zmartwienie; szczęście to już całe m	sawtacie
+299	aphorisms	Żow-Aniczy molaci. O rzewokaceń! [Irl-Ania]	The J-Annies are sick. Until further notice! [Irl-Ania]	Chore J-Anki. Do odwołania! [Irl-Ania]	sawtacie
+300	aphorisms	Maż stawiecz gwarda, kód sie ście: jo su tweja, maż ty jesz 	Now look what's happened: I'm yours and you're mine. [Never 	Tumhi dekho na, yeh kya ho gaya. Tumhara hoon mein aur tum m	sawtacie
+301	aphorisms	Kędy jęwieńszerzysz sie sur płanie idealemięć płanu, wądź wo	When you find yourself on an ideally flat plain, where the c	Gdy znajdziesz się na idealnie płaskiej równinie, gdzie krow	sawtacie
+302	aphorisms	Moszkieł je niekomplety, przekód sie nie szpuzarzy... Tęk ił	A man is incomplete till he is married... Then he is finishe	Człowiek jest niekompletny, póki się nie ożeni... Wtedy jest	sawtacie
+303	aphorisms	Wądź ty ruszyś? Talemięć mi ciej brak, siębła, kód parposie 	Where'd you go? I miss you so, seems like it's been forever 	Gdzie pojechałeś? Tak mi cię brak, wydaje się, że minęła wie	sawtacie
+304	aphorisms	Dziemieć mie, kód su szyk stłuta! Kwiaru, sule miej! [Irl-An	Forgive me for being so stupid! Please, sun of mine! [Irl-An	Vergeef mij, dat ik zo dom ben! Alsjeblieft, zon van mij! [I	sawtacie
+305	aphorisms	Suł sur suł, jo i ty, i noce gran. [Dona Pąk]	Just the two of us, you and me, and one gram of night. [Lady	Sam na sam, ja i ty, i nocy gram. [Lady Pank]	sawtacie
+306	aphorisms	Kwart szekłu po mie... Tuta reszta wołu śpiędzier sięgłamięć	A quarter of a century behind me... All the rest I want to s	Ćwierć wieku za mną... Całą resztę chcę spędzić tylko z Tobą	sawtacie
+307	aphorisms	Sięgłamięć cie posu jemar szyk o fiń, komód sie jema sięgłam	Only you I can love so completely, as one loves only once. [	Tylko ciebie mogę kochać tak do końca, jak kocha się tylko r	sawtacie
+308	aphorisms	Jema mie, jema mie, jematy! [Piotr Rubik]	Love me, love me, my love! [Piotr Rubik]	Kochaj mnie, kochaj mnie, kochanie! [Piotr Rubik]	sawtacie
+309	aphorisms	O Łotwa ruszorą (o rzewidziąd po ocy dzejór).	And gone they are, to Latvia (see you in eight days).	Na Łotwę pajechali (do zobaczenia za osiem dni).	sawtacie
+310	aphorisms	Za Łotwie rzewieńszorą! Focigaci o mróc, uta fliczy.	Back from Latvia! Deadly tired, but happy.	Z Łotwy wrócili! Skonani, ale szczęśliwi.	sawtacie
+311	aphorisms	Omórz łu wita en tuciej pleńtacie, komód kupa plona winu. Wi	Love is life in its fulness like the cup with its wine. We l	Miłość to życie w całej pełni, jak puchar pełen wina. Żyjemy	sawtacie
+312	aphorisms	"Trów raramięć ci łu dziku:
+1. Jesz parfieceń wadęcia...
+2. J"	"I tell you this too rarely:
+1. You are a walking perfection."	"Zbyt rzadko ci to mówię: 
+
+1. Jesteś chodzącą doskonałością."	sawtacie
+313	aphorisms	Nieki nie ojekwale en szarmu, nąk ił włyje zaniętra. [Irl-An	Nobody can equal you in charm, because it flows from the ins	Nikt nie dorównuje ci urodą, bo ona płynie z wnętrza. [Irl-A	sawtacie
+314	aphorisms	Komód cierzyblemięć wiody je nostry dom sień Żowanu! [Irl-An	How terribly empty is our home without Jan! [Irl-Ania]	Jak strasznie pusty jest nasz dom bez Jana! [Irl-Ania]	sawtacie
+315	aphorisms	Powiecz sie endromioru, jajęć twa imażeń z pałpierbar... [Ir	In a moment I will fall asleep, having your image under my e	Zaraz zasnę, mając Twój obraz pod powiekami... [Irl-Ania]	sawtacie
+316	aphorisms	Kędy jesz łoniąc, ki implerzy wiódtać, kwała po sie dziestac	When you are far away, who will fill the emptiness you leave	Gdy jesteś daleko, kto wypełni pustkę, jaką po sobie zostawi	sawtacie
+317	aphorisms	Celibat ofrocaty łu rąpiąd drzecór womnie! Jo protestu! [Irl	Forced celibate, that's an infringement of human rights! I p	Przymusowy celibat to łamanie praw człowieka! Protestuję! [I	sawtacie
+318	aphorisms	Miej mąd skadzie za ściołar sur ciara, kędy nie ja ciej. [Go	My world falls from the stars onto the Earth, when you are n	Mój świat upada z gwiazd na ziemię, kiedy nie ma Cię. [Gosia	sawtacie
+319	aphorisms	Ty en okłór jasz kołórz czału za miar kostar. [Gitarze Rubrz	In your eyes, you have the colour of the sky in my part of t	Ty w oczach masz kolor nieba z moich stron. [Czerwone Gitary	sawtacie
+320	aphorisms	Nie joru gwardar rzetry. Uta kędy kadzioru... Szy ty jerzysz	I won't look back. But if I fall... Will you be the ground? 	Nie będę oglądać się wstecz. Ale jak upadnę... Czy ty będzie	sawtacie
+321	aphorisms	Kród ja frażyły komód wiotr. Kwiaru cie, kuty ku miej si.	My heart is fragile as glass. Please, be careful with me.	Serce mam kruche jak szkło. Proszę Cię, ostrożny ze mną bądź	sawtacie
+322	aphorisms	Sur destatu rutar sta bony Dziew. Ił jędkarzy MI ruta. [Sięć	On crossroads stands the good God. He will show ME the way. 	Na rozstaju dróg stoi dobry Bóg. On wskaże MI drogę. [Feel]	sawtacie
+323	aphorisms	Wyszek omórz nosz dwór jąże, mąd sie komięce, mąd sie nie fi	As long as we are connected by love, the world is beginning,	Dopóki miłość nas dwoje łączy, świat się zaczyna, świat się 	sawtacie
+324	aphorisms	Po kowiwiąd kośkiny oniał je trzyści.	After intercourse, every animal is sad.	"POST COITUM OMNE ANIMAL TRISTE EST.
+
+Po stosunku każde zwier"	sawtacie
+325	aphorisms	Maż jo wołu sie okost cie endromier, wołu nowy dzej ku ciej 	But I want to fall asleep on your side, I want to greet a ne	A ja chcę obok ciebie zasypiać, chcę nowy dzień z tobą witać	sawtacie
+326	aphorisms	Niekoju nie posą że kęblar brylancie sur finiór miór czelór.	Nothing can be changed by the brilliants at the end of my ey	Niczego nie mogą już zmienić brylanty na końcach mych rzęs. 	sawtacie
+327	aphorisms	Niekoju że nie pocie kęblar łągwieszczęca czołata en miór ok	Nothing can be changed anymore by the yearning hidden in my 	Już zmienić nie może niczego zaczajona w mych oczach tęsknot	sawtacie
+328	aphorisms	Mia ownięca je komód folik en więtu...	My future is like a leaflet in the wind...	"Mijn toekomst is als een blaadje in de wind...
+
+Moja przyszł"	sawtacie
+329	aphorisms	Okurszy o fiń mędu, prokód cie jemar o fiń mędu.	I have come to the end of the world to love you till the end	Ik ben naar het einde van de wereld gekomen om van je te hou	sawtacie
+330	aphorisms	Są tale dzeje, kędy łu nie wienie entutu, i łu są le dzeje, 	Some days it don't come at all and these are the days that n	Są takie dni, kiedy to nie przychodzi wcale, i to są te dni,	sawtacie
+331	aphorisms	Wołu porłar, uta jelkód fucz kostrzęże, kód dzieszydru owiar	I want to speak, but I have a lump in my throat, that I want	Chcę mówić, lecz coś gardło spina, że pragnę mieć cię jeszcz	sawtacie
+332	aphorisms	Ciępór fole obliszczer sonia, prokód si kród nie deskrzepar.	Sometimes one has to forget about his dreams, to keep the he	Czasem trzeba zapomnieć marzenia, żeby serce nie pękło.	sawtacie
+333	aphorisms	Platerz ---> Batawia (nie ja nosz par 3 siecianie)	Opoczno ---> Netherlands (we won't be there for 3 weeks)	Opoczno ---> Holandia (nie ma nas przez 3 tygodnie)	sawtacie
+334	aphorisms	Jo jęwieńszy cie, maż ty jęwieńszyś mie. [Zocha Grędzia]	I have found you, you have found me. [Jodhaa Akbar]	"Tumhe maine pa liya, mujhe tumne paaya. [Jodhaa Akbar]
+
+Znal"	sawtacie
+335	aphorisms	En gardzin miór soniór emproceś biała przymawierza. [Zocha G	In the garden of my dreams you have brought the beautiful sp	Do ogrodu moich marzeń przyniosłeś piękną wiosnę. [Jodhaa Ak	sawtacie
+336	aphorisms	Niekwale historie omoruzie derą jotrzan... Śpioru, kód nostr	Some love stories live forever... I hope ours is one of them	Niektóre historie miłosne trwają wiecznie... Mam nadzieję, ż	sawtacie
+337	aphorisms	Kodycz mie, kwiaru, jądź, wądź nie finie sie mąd jękóra wiec	Take me there, please, where the world does not end once aga	Zabierz mnie, proszę, tam, gdzie nie kończy się świat jeszcz	sawtacie
+338	aphorisms	Flurze jaję mie kołorze, uta odórz je dzie ciej. [Zocha Gręd	The flowers have my colours, but the fragrance is from you. 	Kwiaty mają moje barwy, ale zapach jest od ciebie. [Jodhaa A	sawtacie
+339	aphorisms	Sołyć o miej omórz, kwały je mi karzerzy, ka mia wita. [Soły	Salute to my love who is dearer to me than my life. [Salaam-	Pozdrawiam moją miłość, która jest droższa dla mnie, niż życ	sawtacie
+340	aphorisms	En wicie pocie sie kątar sięgłamięć sur siej. Maż iłu leż ni	In life, you can count only on yourself. And even that I'd a	W życiu można liczyć tylko na siebie. A i tego nie radzę. [T	sawtacie
+341	aphorisms	Nił nie dera jotrzan... forzy omorze! [Kisna]	Nothing survives forever... But love! [Kisna]	Nic nie trwa wiecznie... oprócz miłości! [Kisna]	sawtacie
+342	aphorisms	Ołat włogra jękóra dzie foku nostrór kropr...	The sheets still smell like the fire of our bodies...	Pościel jeszcze pachnie ogniem naszych ciał...	sawtacie
+343	aphorisms	Trów mółt omorze oszczydzierzy cie. [Rzejna]	Too much love will kill you. [Queen]	Zbyt wiele miłości cię zabije. [Królowa]	sawtacie
+344	aphorisms	Gut, gut, włyję łokrzymie. En mrzepłar łokrzymiar jo i ty.	Drip, drip, tears are flowing. In the puddles of tears, ther	Kap, kap, płyną łzy. W łez kałużach ja i ty.	sawtacie
+345	aphorisms	Nie mórz za omorze, uta za łu wiw! [Taal]	Don't die for love, but live for it! [Taal]	Nie umieraj z miłości, lecz nią żyj! [Taal]	sawtacie
+346	aphorisms	Sień omorze, po kód morzer? Sień omorze, pro koju wiwier? [T	Without love, what's there to die for? Without love, what's 	Bez miłości, za co umierać? Bez miłości, po co żyć? [Taal]	sawtacie
+347	aphorisms	Plona śpioręce, uta i ciororze...	Full of hope, but also of fear...	Pełna nadziei, ale i strachu...	sawtacie
+348	aphorisms	Dzieju! Prokód mi sie szyk wlarsi, komód mi sie nie wole!	My God! If I'd only feel like it as much as I don't feel lik	Boże! Żeby mi się tak chciało, jak mi się nie chce!	sawtacie
+349	aphorisms	Zebdamięć mąd sie enłoka en twór okłór...	Suddenly the world fits within your eyes...	Nagle świat się mieści w Twoich oczach...	sawtacie
+350	aphorisms	Ciępu nie kiera wółnr, sięgłamięć świeszcze o dołorz.	Times does heal any wounds, it just gets you used to the pai	Czas nie leczy ran, tylko przyzwyczaja do bólu.	sawtacie
+351	aphorisms	Urzele miej lęgwie są urzele miu mędu.	The borders of my language are the borders of my world.	Granice mojego języka są granicami mojego świata.	sawtacie
+352	aphorisms	Nękwa nie judka womnie, przekód nie wadszerzysz przymieśmie 	Never judge a person until you have walked at least a mile i	Nigdy nie osądzaj człowieka, zanim nie chodziłeś przynajmnie	sawtacie
+353	aphorisms	Womni, kwali je graw ku sułu siej, probablemięć ileż jerzy g	A person who cannot live with himself probably cannot live w	Człowiekowi, któremu jest ciężko z samym sobą, prawdopodobni	sawtacie
