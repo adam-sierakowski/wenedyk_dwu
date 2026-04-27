@@ -1,0 +1,24 @@
+Dialog
+A dialogue
+ Żowan: Dzej bony!
+ Żowan: Good day! 
+ Dan: Sołyć! Szy stydziesz jec?
+ Dan: Hello! Are you studying here? 
+ Żowan: Nę, docze jec. Maż ty?
+ Żowan: No, I teach here. And you? 
+ Dan: Jo su stydzięć. Su za Francje i wistam twej paź.
+ Dan: I am a student. I'm from France and I'm visiting your country. 
+ Żowan: Mółt mi płacze Francja. 
+ Żowan: I like France a lot. 
+ Dan: Komód ci po numię?
+ Dan: What's your name? 
+ Żowan: Żowan, Żowan Sasomętany. Maż ty, komód sie opiałasz?
+ Żowan: Żowan, Żowan Sasomętany. And you, what's your name? 
+ Dan: Daniel Saint-Julien. Ziądź jesz?
+ Dan: Daniel Saint-Julien. Where are you from? 
+ Żowan: Su za Łodzie.
+ Żowan: I'm from Łódź. 
+ Dan: Łódź je czytać biała. Kar sie okętrar, Żowanie!
+ Dan: Łódź is a beautiful city. Nice to meet you, Żowan! 
+ Żowan: Kar mi. O rzewidziąd!
+ Żowan: A pleasure. See you later!
