@@ -1,10 +1,10 @@
-lemma,grammar_gloss,meaning_en,meaning_pl,noun_declension_class,source,universe,etymology_languages,etymology_words,example_wen,example_pol,example_eng,example_wen_source,example_pol_source,example_eng_source,info
-sęginy,adj,blood,krwawy,-,corpus_steenbergen,any,latin_inherited,sanguineus,"Kośkiny za nosz je libier sęginy. Wądźkąk sie nosz oprerzy, sumy rubrzy. [Clive Barker]",,,corpus_steenbergen,,,
-sapier,verb,"know how, have the ability to do something",potrafić,-,corpus_steenbergen,any,latin_inherited,sapere,"Ła sapie mie surmowiar, osaler, dezrzydziewkar, sapie mie odyczer o rzyz i o łokrzymie, ciępór miecim wynociępralemięć.","Ona potrafi mnie wzruszyć, zaskoczyć, rozśmieszyć, potrafi doprowadzić do śmiechu i łez, czasami nawet jednocześnie.",,corpus_steenbergen,,,typo: dezrzydziewkar -> dezrzyziewkar
-dziewie,adv,perhaps,chyba,-,corpus_steenbergen,any,latin_inherited,debet,"Dziewie pocie omiecier, kód nękwa mi sie talemięć bień nie dezporława ku womnie ka ku lej.","Chyba[?] można przyznać, że nigdy mi się tak dobrze nie rozmawiało z [żadnym] człowiekiem [tak] jak z nią.",Perhaps one can admit that with no human being have I ever talked as easily as with her.,corpus_steenbergen,adam,adam,no translation so no sure about this one. maybe it's a writing artifact
-,m,author,"autor, twórca",,corpus_steenbergen,any,latin_inherited,,,,,,,,
-,,,,,,,,,,,,,,,
-grunier,"v, 7",1. whine (growl) 2. whine (cry),"1. ryczeć (wyć, drzeć się) 2. ryczeć (płakać)",-,adam,any,latin_inherited,grunnire,,,,,,,already exists: grumier - warczeć
-kastórz,m,beaver,bóbr,,adam,any,latin_inherited,castor,,,,,,,
-bank,m,bench,ławka,,adam,any,italian,banco,,,,,,,synonym of szkon
-flaszka,f,booze bottle,flaszka,,adam,any,german,Flasche,,,,,,,
+lemma,grammar_gloss,meaning_en,meaning_pl,source,universe,etymology_languages,etymology_words,example_wen,example_pol,example_eng,example_wen_source,example_pol_source,example_eng_source,info
+sęginy,adj,blood,krwawy,corpus_steenbergen,any,latin_inherited,sanguineus,"Kośkiny za nosz je libier sęginy. Wądźkąk sie nosz oprerzy, sumy rubrzy. [Clive Barker]",,,corpus_steenbergen,,,
+sapier,verb,"know how, have the ability to do something",potrafić,corpus_steenbergen,any,latin_inherited,sapere,"Ła sapie mie surmowiar, osaler, dezrzydziewkar, sapie mie odyczer o rzyz i o łokrzymie, ciępór miecim wynociępralemięć.","Ona potrafi mnie wzruszyć, zaskoczyć, rozśmieszyć, potrafi doprowadzić do śmiechu i łez, czasami nawet jednocześnie.",,corpus_steenbergen,,,typo: dezrzydziewkar -> dezrzyziewkar
+dziewie,adv,perhaps,chyba,corpus_steenbergen,any,latin_inherited,debet,"Dziewie pocie omiecier, kód nękwa mi sie talemięć bień nie dezporława ku womnie ka ku lej.","Chyba[?] można przyznać, że nigdy mi się tak dobrze nie rozmawiało z [żadnym] człowiekiem [tak] jak z nią.",Perhaps one can admit that with no human being have I ever talked as easily as with her.,corpus_steenbergen,adam,adam,no translation so no sure about this one. maybe it's a writing artifact
+,m,author,"autor, twórca",corpus_steenbergen,any,latin_inherited,,,,,,,,
+,,,,,,,,,,,,,,
+grunier,"v, 7",1. whine (growl) 2. whine (cry),"1. ryczeć (wyć, drzeć się) 2. ryczeć (płakać)",adam,any,latin_inherited,grunnire,,,,,,,already exists: grumier - warczeć
+kastórz,m,beaver,bóbr,adam,any,latin_inherited,castor,,,,,,,
+bank,m,bench,ławka,adam,any,italian,banco,,,,,,,synonym of szkon
+flaszka,f,booze bottle,flaszka,adam,any,german,Flasche,,,,,,,
