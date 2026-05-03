@@ -5,7 +5,7 @@ padded=$(printf "%03d" "$num")
 
 echo "Generated number: $padded"
 
-files=$(find ~/wenedyk/corpus/aphorisms -name "*$padded*")
+files=$(find corpus/steenbergen/sample_texts/aphorisms -name "*$padded*")
 
 if [ -z "$files" ]; then
   echo "No matching files found."

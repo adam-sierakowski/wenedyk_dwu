@@ -6,7 +6,7 @@
 regex="$1"
 lang="$2"
 
-base_dir="wenedyk/corpus"
+base_dir="corpus"
 
 if [[ -z "$regex" || -z "$lang" ]]; then
   echo "Usage: $0 \"regex\" [wen|pol|eng]"
