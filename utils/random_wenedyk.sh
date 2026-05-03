@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BASE_DIR="$HOME/wenedyk/corpus"
+BASE_DIR="corpus"
 
 
 
