@@ -1,15 +1,16 @@
 #!/bin/bash
 
-# Usage: ./script.sh "regex" lang
-# Example: ./script.sh "potrze" wen
+# Usage: ./script.sh lang [grep_flags...] "regex"
+# Example: ./script.sh wen -i "potrze"
 
-regex="$1"
-lang="$2"
+lang="$1"
+regex="${@: -1}"
+grep_flags=("${@:2:$#-2}")
 
 base_dir="corpus"
 
-if [[ -z "$regex" || -z "$lang" ]]; then
-  echo "Usage: $0 \"regex\" [wen|pol|eng]"
+if [[ $# -lt 2 || -z "$lang" || -z "$regex" ]]; then
+  echo "Usage: $0 [wen|pol|eng] [grep_flags...] \"regex\""
     exit 1
     fi
 
@@ -27,13 +28,13 @@ if [[ -z "$regex" || -z "$lang" ]]; then
 		fi
 
 		# Find matching files
-		grep -rl --include="*.$search_ext" -e "$regex" "$base_dir" | while read -r file; do
+		grep -rl "${grep_flags[@]}" --include="*.$search_ext" -e "$regex" "$base_dir" | while read -r file; do
 		  echo "=================================================="
 		    echo "MATCH FILE: $file"
 		      echo "=================================================="
 
 		        # Show full file with highlighted matches + line numbers
-			  grep -n --color=always -e "$regex" "$file" | sed 's/^/MATCH: /'
+			  grep -n --color=always "${grep_flags[@]}" -e "$regex" "$file" | sed 's/^/MATCH: /'
 			    echo
 
 			      echo "----- FULL FILE (with highlights) -----"
