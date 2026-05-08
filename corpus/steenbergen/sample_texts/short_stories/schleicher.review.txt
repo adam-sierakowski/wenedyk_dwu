@@ -1,0 +1,8 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts2.html) vs PL website (teksty2.html)
+Word in EN version: «rapidamięć»
+Word in PL version: «raptamięć»
+Context: adverb meaning "quickly/rapidly" — one of the three horses carries a man «raptamięć» (quickly).
+Assessment: PL version (raptamięć) is likely correct. It derives from Latin raptum (verbal-noun stem),
+consistent with how Wenedyk forms adverbs. «rapidamięć» inserts the French/Italian adjective stem
+(rapide), which is irregular in this morphological pattern.

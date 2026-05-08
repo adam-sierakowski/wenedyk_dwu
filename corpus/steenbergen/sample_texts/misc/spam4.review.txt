@@ -1,0 +1,8 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts7.html) vs PL website (teksty7.html)
+Word in EN version: «fiemie»
+Word in PL version: «fiemnie»
+Context: plural of fiemna (wife) — "Some wives hired us."
+Assessment: PL version (fiemnie) is correct. Wenedyk feminine nouns in -na form their nominative
+plural in -nie (fiemna → fiemnie). The EN «fiemie» drops the -n-, which is a straightforward
+transcription error.
