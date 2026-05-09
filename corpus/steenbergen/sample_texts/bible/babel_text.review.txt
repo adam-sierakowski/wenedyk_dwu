@@ -1,0 +1,7 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts1.html) vs PL website (teksty1.html)
+Section heading in EN version: «Turz Bable»
+Section heading in PL version: «Turz Bablu»
+Assessment: PL version (Bablu) is likely correct. «Bablu» is the regular genitive singular of «Babel»
+following Wenedyk masculine declension, while «Bable» appears to be a non-standard or earlier form
+retained only in the EN pages.

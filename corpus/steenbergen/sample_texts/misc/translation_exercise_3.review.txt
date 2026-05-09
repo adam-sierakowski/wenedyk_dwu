@@ -1,0 +1,8 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts7.html) vs PL website (teksty7.html)
+Word in EN version: «oczydzie»
+Word in PL version: «jadżdzie»
+Context: adjective meaning "acidic" — chickens don't help with fertilisation because they are too acidic.
+Assessment: PL version (jadżdzie) is likely correct. Latin acidus → Wenedyk would undergo palatalisation
+of ac- → jadż-, giving jadżdzie. The EN «oczydzie» has no clear derivation from acidus and appears
+to be a mis-transcription.

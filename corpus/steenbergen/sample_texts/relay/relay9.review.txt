@@ -1,0 +1,9 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts3.html) vs PL website (teksty3.html)
+Word in EN version: «ożyle»
+Word in PL version: «jeżle»
+Context: adjective meaning "agile/nimble" — "Winter is the sharp beak and the agile claws
+of a predator bird."
+Assessment: PL version (jeżle) is almost certainly correct. It straightforwardly derives from
+Latin agilis → Wenedyk jeżle. The EN «ożyle» is morphologically opaque — it appears to drop
+the initial j- and add a prefix vowel o-, which is not a regular Wenedyk derivation.

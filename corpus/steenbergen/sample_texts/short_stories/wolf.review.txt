@@ -1,0 +1,8 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts2.html) vs PL website (teksty2.html)
+Word in EN version: «Udzu»
+Word in PL version: «Jewdziu»
+Context: the wolf's final speech — "Better that I die from hunger with my wife and children."
+Assessment: PL version (Jewdziu) is likely correct. It is recognisable as a form of Wenedyk «jew»
+(better/already) + oblique suffix. «Udzu» in the EN version appears to be a truncation or mis-transcription
+with no clear Wenedyk etymology.

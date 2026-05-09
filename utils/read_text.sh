@@ -1,50 +1,37 @@
 #!/usr/bin/env bash
 
 # Check input
-if [ -z "$1" ]; then
-    echo "Usage: $0 path/to/file_base (without .wen/.pol/.eng)"
-        exit 1
-	fi
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 path/to/file_base1 [path/to/file_base2 ...]"
+    exit 1
+fi
 
-	base="$1"
+shopt -s nullglob
 
-	wen_file="${base}.wen.txt"
-	pol_file="${base}.pol.txt"
-	eng_file="${base}.eng.txt"
+for base in "$@"; do
 
-	# Validate files
-	missing=0
+    # Find matching files
+    files=( "${base}".*.txt )
 
-	if [ ! -f "$wen_file" ]; then
-	    echo "Missing: $wen_file"
-	        missing=1
-		fi
+    # Validate matches
+    if [ ${#files[@]} -eq 0 ]; then
+        echo "No matching files found for pattern: ${base}.*.txt"
+        echo
+        continue
+    fi
 
-		if [ ! -f "$pol_file" ]; then
-		    echo "Missing: $pol_file"
-		        missing=1
-			fi
+    # Sort alphabetically
+    IFS=$'\n' files=($(printf '%s\n' "${files[@]}" | sort))
+    unset IFS
 
-			if [ ! -f "$eng_file" ]; then
-			    echo "Missing: $eng_file"
-			        missing=1
-				fi
+    # Display
+    echo "Source: $base"
+    echo
 
-				if [ "$missing" -ne 0 ]; then
-				    exit 1
-				    fi
+    for file in "${files[@]}"; do
+        echo "========== $(basename "$file") =========="
+        cat -n "$file"
+        echo
+    done
 
-				    # Display
-				    echo "Source: $base"
-				    echo
-
-				    echo "========== WEN =========="
-				    cat "$wen_file"
-				    echo
-
-				    echo "========== POL =========="
-				    cat "$pol_file"
-				    echo
-
-				    echo "========== ENG =========="
-				    cat "$eng_file"
+done
