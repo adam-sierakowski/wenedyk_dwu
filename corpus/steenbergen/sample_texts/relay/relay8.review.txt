@@ -1,0 +1,9 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts3.html) vs PL website (teksty3.html)
+Word in EN version: «faczylemięć»
+Word in PL version: «faczlemięć»
+Context: adverb meaning "easily" — criminals could «faczlemięć» be hiding in the monastery.
+Assessment: PL version (faczlemięć) is likely correct. This is part of a systematic pattern:
+EN pages consistently insert an epenthetic -y- vowel in the facilis→faczl- stem (also seen in
+translation_exercise_2, goquim_sentences). The PL pages apply the contracted form without the
+extra vowel, which is the more regular Wenedyk morphology.

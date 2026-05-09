@@ -1,0 +1,8 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts6.html) vs PL website (teksty6.html)
+Word in EN version: «dziwczyły»
+Word in PL version: «dziwczeły»
+Context: adjective meaning "difficult/hard" in the beer-ordering dialogue.
+Assessment: PL version (dziwczeły) is likely the more regular form. Both are unusual and the
+etymology is unclear, but the vowel sequence in the PL version (-cze-) is more consistent with
+typical Wenedyk phonological patterns than the EN -czy- sequence.

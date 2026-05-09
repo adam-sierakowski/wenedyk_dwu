@@ -1,0 +1,8 @@
+[DISCREPANCY — found by Claude, 2026-05-08]
+Source: comparison of EN website (texts2.html) vs PL website (teksty2.html)
+Word in EN version: «Śpieszy»
+Word in PL version: «Śpiekszy»
+Context: the children describe the monster — "He glared into our nest with his big eyes."
+Assessment: PL version (Śpiekszy) is correct. The standard Wenedyk past-tense/participial form
+consistently uses the -kszy suffix (cf. Latin spexit from specere, "to look"). The EN «Śpieszy»
+drops the -k- infix and happens to resemble Polish śpieszyć (to hurry), which is semantically wrong.
