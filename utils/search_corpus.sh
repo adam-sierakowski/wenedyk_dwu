@@ -121,8 +121,8 @@ for file in "${matching_files[@]}"; do
         # Get matching line numbers without color
         line_nums=()
         while IFS= read -r n; do
-            line_nums+=("$n")
-        done < <(grep -n "${grep_flags[@]}" -e "$regex" "$file" | cut -d: -f1)
+            [[ -n "$n" ]] && line_nums+=("$n")
+        done <<< "$(grep -n "${grep_flags[@]}" -e "$regex" "$file" | cut -d: -f1)"
 
         first=true
         for linenum in "${line_nums[@]}"; do
