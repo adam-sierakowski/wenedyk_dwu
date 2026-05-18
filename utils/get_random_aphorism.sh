@@ -5,10 +5,8 @@ padded=$(printf "%03d" "$num")
 
 echo "Generated number: $padded"
 
-files=()
-while IFS= read -r -d '' f; do
-  files+=("$f")
-done < <(find corpus/steenbergen/sample_texts/aphorisms -name "*$padded*" -print0)
+shopt -s nullglob
+files=( corpus/steenbergen/sample_texts/aphorisms/*"$padded"* )
 
 if [ ${#files[@]} -eq 0 ]; then
   echo "No matching files found."
