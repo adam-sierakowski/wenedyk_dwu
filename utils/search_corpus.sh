@@ -83,9 +83,12 @@ get_companions() {
 
 # Find all files with matches
 matching_files=()
+_tmp_matches=$(mktemp)
+grep -rl "${grep_flags[@]}" --include="*.$lang.txt" -e "$regex" "$BASE_DIR" 2>/dev/null | sort > "$_tmp_matches"
 while IFS= read -r f; do
     matching_files+=("$f")
-done < <(grep -rl "${grep_flags[@]}" --include="*.$lang.txt" -e "$regex" "$BASE_DIR" 2>/dev/null | sort)
+done < "$_tmp_matches"
+rm -f "$_tmp_matches"
 
 if [ ${#matching_files[@]} -eq 0 ]; then
     echo "No matches found."
@@ -102,7 +105,7 @@ for file in "${matching_files[@]}"; do
     companions=()
     while IFS= read -r c; do
         [[ -n "$c" ]] && companions+=("$c")
-    done < <(get_companions "$base")
+    done <<< "$(get_companions "$base")"
 
     if $full_mode; then
         echo "----- [$lang] $(basename "$file") -----"
@@ -118,8 +121,8 @@ for file in "${matching_files[@]}"; do
         # Get matching line numbers without color
         line_nums=()
         while IFS= read -r n; do
-            line_nums+=("$n")
-        done < <(grep -n "${grep_flags[@]}" -e "$regex" "$file" | cut -d: -f1)
+            [[ -n "$n" ]] && line_nums+=("$n")
+        done <<< "$(grep -n "${grep_flags[@]}" -e "$regex" "$file" | cut -d: -f1)"
 
         first=true
         for linenum in "${line_nums[@]}"; do

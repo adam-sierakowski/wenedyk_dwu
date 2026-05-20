@@ -26,9 +26,12 @@ done
 
 # Collect all .vn.txt files, pre-sorted (required by comm below)
 vn_files=()
+_tmp_vn=$(mktemp)
+find "$BASE_DIR" -type f -name "*.vn.txt" | sort > "$_tmp_vn"
 while IFS= read -r file; do
     vn_files+=("$file")
-done < <(find "$BASE_DIR" -type f -name "*.vn.txt" | sort)
+done < "$_tmp_vn"
+rm -f "$_tmp_vn"
 
 if [ ${#vn_files[@]} -eq 0 ]; then
     echo "No .vn.txt files found."
@@ -38,9 +41,16 @@ fi
 # Filter to unseen: use comm instead of per-file grep (much faster on iSH)
 if $unseen_only; then
     unseen=()
+    _tmp_all=$(mktemp)
+    _tmp_seen=$(mktemp)
+    _tmp_unseen=$(mktemp)
+    printf '%s\n' "${vn_files[@]}" > "$_tmp_all"
+    sort "$SEEN_FILE" 2>/dev/null > "$_tmp_seen"
+    comm -23 "$_tmp_all" "$_tmp_seen" > "$_tmp_unseen"
     while IFS= read -r f; do
         [[ -n "$f" ]] && unseen+=("$f")
-    done < <(comm -23 <(printf '%s\n' "${vn_files[@]}") <(sort "$SEEN_FILE" 2>/dev/null))
+    done < "$_tmp_unseen"
+    rm -f "$_tmp_all" "$_tmp_seen" "$_tmp_unseen"
     if [ ${#unseen[@]} -eq 0 ]; then
         echo "All texts have been seen."
         exit 0
