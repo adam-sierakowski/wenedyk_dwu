@@ -4,4 +4,4 @@ Word in EN version: «faczyła»
 Word in PL version: «faczła»
 Context: feminine adjective meaning "simple" — "Wenedyk je lęgwa faczła." (Wenedyk is a simple language.)
 Assessment: PL version (faczła) is correct. Third instance of the same systematic epenthetic -y-
-error in the EN pages for the facilis→faczl- stem (also in relay8, translation_exercise_2).
+error in the EN pages for the facilis→faczl- stem (also in monastery, translation_exercise_2).

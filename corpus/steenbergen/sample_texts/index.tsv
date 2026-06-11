@@ -12,15 +12,16 @@ village	short_stories	Wikieł frączeski	The French village	Francuska wioska	tex
 lights	short_stories	Le łymna	Those lights	Tamte światła	texts2
 wren	short_stories	Rzeglik	The wren	Strzyżyk	texts2
 rushdie	short_stories	Salman Rushdie, “Maga za Floręce” (fragmię)	Salman Rushdie, “The Enchantress of Florence” (fragment)	Salman Rushdie, “Czarodziejka z Florencji” (fragment)	texts2
-relay10	relay	Ocięceń: mały nieporłarz!	Beware of the baby!	Uwaga: zły niemowlak!	texts3
-relay75	relay	Pistła	A letter	List	texts3
-relay8	relay	Klucz o mnościerz	The key to the monastery	Klucz do opactwa	texts3
-relay9	relay	Pięzęć dzie iwrzanu	Thinking about winter	Rozmyślania o zimie	texts3
-relay11	relay	Przeskrzypceń	A recipe	Przepis	texts3
-relay12	relay	Ił gwarda i porła?!			texts3
-relay13	relay	Mód kętra trzyścieca iwrzanu	A method against the gloom of Winter	Sposób na zimowy smutek	texts3
-relay14	relay	Uraceń pro jekunie i moszkłu, kwali wołą sie szpuzar	Prayer for a woman and a man, who want to get married	Modlitwa dla kobiety i mężczyzny, którzy chcą się pobrać	texts3
-relay15	relay	Deskars frudlęci	A fraudulent speech	Przemówienie zakłamane	texts3
+baby	relay	Ocięceń: mały nieporłarz!	Beware of the baby!	Uwaga: zły niemowlak!	texts3
+letter	relay	Pistła	A letter	List	texts3
+monastery	relay	Klucz o mnościerz	The key to the monastery	Klucz do opactwa	texts3
+winter	relay	Pięzęć dzie iwrzanu	Thinking about winter	Rozmyślania o zimie	texts3
+recipe	relay	Przeskrzypceń	A recipe	Przepis	texts3
+talking_baby	relay	Ił gwarda i porła?!	He looks and talks?!		texts3
+gloom	relay	Mód kętra trzyścieca iwrzanu	A method against the gloom of Winter	Sposób na zimowy smutek	texts3
+wedding_prayer	relay	Uraceń pro jekunie i moszkłu, kwali wołą sie szpuzar	Prayer for a woman and a man, who want to get married	Modlitwa dla kobiety i mężczyzny, którzy chcą się pobrać	texts3
+fraud	relay	Deskars frudlęci	A fraudulent speech	Przemówienie zakłamane	texts3
+drift	relay		Text for the LLC3 Relay	Tekst dla LLC3 Relay	texts3
 ring_poem	poetry	The ring poem			texts4
 starling	poetry	Kęt Starnór	The Starlings' Song	Śpiew szpaków	texts4
 hen	poetry	From „The Space Child's Mother Goose”, by Frederick Winsor			texts4
