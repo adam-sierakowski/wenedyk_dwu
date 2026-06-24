@@ -1,0 +1,12 @@
+A dialogue
+Żowan:	Good day!
+Dan:	Hello! Are you studying here?
+Żowan:	No, I teach here. And you?
+Dan:	I am a student. I'm from France and I'm visiting your country.
+Żowan:	I like France a lot.
+Dan:	What's your name?
+Żowan:	Żowan, Żowan Sasomętany. And you, what's your name?
+Dan:	Daniel Saint-Julien. Where are you from?
+Żowan:	I'm from Łódź.
+Dan:	Łódź is a beautiful city. Nice to meet you, Żowan!
+Żowan:	A pleasure. See you later!

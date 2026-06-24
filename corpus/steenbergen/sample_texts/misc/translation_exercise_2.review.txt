@@ -1,8 +1,0 @@
-[DISCREPANCY — found by Claude, 2026-05-08]
-Source: comparison of EN website (texts7.html) vs PL website (teksty7.html)
-Word in EN version: «faczyły»
-Word in PL version: «faczły»
-Context: feminine adjective meaning "easy/simple" — "a safe landing is promised, not an easy journey."
-Assessment: PL version (faczły) is likely correct. Same systematic pattern as relay8 and
-goquim_sentences: EN pages insert an epenthetic -y- in the facilis→faczl- stem. PL pages apply
-the contracted, more regular form.

@@ -1,0 +1,12 @@
+Dialog
+Żowan:	Dzień dobry!
+Dan:	Witaj! Czy studiujesz tutaj?
+Żowan:	Nie, uczę tu. A ty?
+Dan:	Jestem studentem. Jestem z Francji i odwiedzam twój kraj.
+Żowan:	Bardzo mi się podoba Francja.
+Dan:	Jak masz na imię?
+Żowan:	Żowan, Żowan Sasomętany. A ty, jak się nazywasz?
+Dan:	Daniel Saint-Julien. Skąd jesteś?
+Żowan:	Jestem z Łodzi.
+Dan:	Łódź jest pięknym miastem. Miło cię spotkać, Żowanie!
+Żowan:	Miło mi. Do widzenia!
